@@ -1,4 +1,4 @@
-![Build Status](https://gitlab.com/pages/gitbook/badges/master/build.svg)
+![Build Status](https://gitlab.com/uag/wiki/master/build.svg)
 
 ---
 
