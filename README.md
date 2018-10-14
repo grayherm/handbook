@@ -1,4 +1,4 @@
-![Build Status](https://gitlab.com/uag/wiki/master/build.svg)
+[![pipeline status](https://gitlab.com/uag/wiki/badges/master/pipeline.svg)](https://gitlab.com/uag/wiki/pipelines)
 
 ---
 
