@@ -6,5 +6,11 @@ module.exports = {
     head: [
         ['link', { rel: 'icon', href: '/uagLogo.png' }]
     ],
-    serviceWorker: true
+    serviceWorker: true,
+    themeConfig: {
+	sidebar: 'auto',
+	displayAllHeaders: false,
+	activeHeaderLinks: false,
+	lastUpdated: true
+    }
 }
