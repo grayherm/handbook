@@ -19,7 +19,7 @@ module.exports = {
 		    { text: 'Chapter 0: An Introduction', link: '/ch0/' },
 		    { text: 'Chapter 1: The Basics', link: '#' },
 		    { text: 'Chapter 2: Advanced Techniques', link: '#' },
-		    { text: 'Chapter 4: Leadership', link: '#' }
+		    { text: 'Chapter 3: Leadership', link: '#' }
 		]
 	    }
 	],
