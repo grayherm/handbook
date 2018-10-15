@@ -24,9 +24,9 @@ module.exports = {
 				text: 'Chapters',
 			items: [
 				{ text: 'Chapter 0: An Introduction', link: '/ch0/' },
-				{ text: 'Chapter 1: The Basics', link: '#' },
-				{ text: 'Chapter 2: Advanced Techniques', link: '#' },
-				{ text: 'Chapter 3: Leadership', link: '#' }
+				{ text: 'Chapter 1: The Basics', link: '/ch1/' },
+				{ text: 'Chapter 2: Advanced Techniques', link: '/ch2/' },
+				{ text: 'Chapter 3: Leadership', link: '/ch3/' }
 			]
 			}
 		],
