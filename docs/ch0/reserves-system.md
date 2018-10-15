@@ -1,12 +1,12 @@
-# Reserves System
+# Section 2: Reserves System
 
-## Introduction
+## 1. Abstract
 
 The reserves system is a solution for those who wish to stay within the unit but not have the time to attend sessions consistently. The reasoning behind moving reserves is completely irrelevant to us, anyone can request to be moved to reserves at any time for any reason.
 
-## Procedures
+## 2. Procedures
 
-### Reservation
+### 2a. Reservation
 
 In order to become a reserve, you need to contact **Cody** on the Discord via DM asking for reservation. The following information is required to complete the reservation request:
 
@@ -16,7 +16,7 @@ In order to become a reserve, you need to contact **Cody** on the Discord via DM
 
 Once this information has been provided and the reservation request has been authorised, the member is made a reserve and marked to be removed from the attendance register. Reserves can always join in on sessions, but they are subject to some restrictions which are laid out at the bottom of this page.
 
-### Reincorporation
+### 2b. Reincorporation
 
 The process of reincorporation is the following:
 
@@ -25,13 +25,13 @@ The process of reincorporation is the following:
 3. If reserve is able to attend enough sessions in the probationary period, they are briefed on exactly what has changed since they were on the reserve system. Following this, the reserve is then offered some (if not all) of any special roles and positions they had before they signed on as a reserve.
 4. Once all is done and agreed upon, the reserve is made a fully-fledged member once again. The reincorporation process is now finalised, and they cannot apply for reservation again for **28 days** after reincorporation.
 
-## Things to Consider
+## 3. Things to Consider
 
-### Requirements
+### 3a. Requirements
 
 The only requirements of the reserves system is that you must be a full member, **recruits do not get to apply!**
 
-### Restrictions
+### 3b. Restrictions
 
 The following restrictions are applied to all reserves who join a session:
 

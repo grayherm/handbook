@@ -8,31 +8,44 @@ module.exports = {
     ],
     serviceWorker: true,
     themeConfig: {
-	sidebar: 'auto',
-	displayAllHeaders: false,
-	activeHeaderLinks: false,
-	lastUpdated: true,
-	nav: [
-	    {
-	        text: 'Chapters',
-		items: [
-		    { text: 'Chapter 0: An Introduction', link: '/ch0/' },
-		    { text: 'Chapter 1: The Basics', link: '#' },
-		    { text: 'Chapter 2: Advanced Techniques', link: '#' },
-		    { text: 'Chapter 3: Leadership', link: '#' }
-		]
-	    }
-	],
-	serviceWorker: { 
-	    updatePopup: {
-	        message: 'This page just got updated!',
-		buttonText: 'Refresh?'
-	    }
+		sidebar: {
+		  '/ch0/': [
+			'',
+			[ "getting-started", "Section 1: Getting Started" ],
+			'reserves-system'
+		  ]
+		},
+		sidebarDepth: 4,
+		displayAllHeaders: false,
+		activeHeaderLinks: false,
+		lastUpdated: true,
+		nav: [
+			{
+				text: 'Chapters',
+			items: [
+				{ text: 'Chapter 0: An Introduction', link: '/ch0/' },
+				{ text: 'Chapter 1: The Basics', link: '#' },
+				{ text: 'Chapter 2: Advanced Techniques', link: '#' },
+				{ text: 'Chapter 3: Leadership', link: '#' }
+			]
+			}
+		],
+		serviceWorker: { 
+			updatePopup: {
+				message: 'This page just got updated!',
+			buttonText: 'Refresh?'
+			}
+		},
+		repo: 'https://gitlab.com/uag/handbook',
+		repoLabel: 'Contribute!',
+		docsDir: 'docs',
+		editLinks: true,
+		editLinkText: 'Help us improve this page!'
+    },
+	markdown: {
+		lineNumbers: true
 	},
-	repo: 'https://gitlab.com/uag/handbook',
-	repoLabel: 'Contribute!',
-	docsDir: 'docs',
-	editLinks: true,
-	editLinkText: 'Help us improve this page!'
-    }
+	plugins: [
+		'flowchart'
+	]
 }
