@@ -5,5 +5,6 @@ module.exports = {
     dest: 'public',
     head: [
         ['link', { rel: 'icon', href: '/uagLogo.png' }]
-    ]
+    ],
+    serviceWorker: true
 }
