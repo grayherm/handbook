@@ -1,5 +1,6 @@
 ---
 home: true
+heroImage: /uagLogo.png
 ---
 
 # Welcome to the UAG Handbook
