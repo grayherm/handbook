@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /uagLogo.png
-actionText: Get Started →
+actionText: Get Started
 actionLink: /ch0/
 ---
 
