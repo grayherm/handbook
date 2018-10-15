@@ -1,0 +1,17 @@
+{
+  "name": "UAG Handbook",
+  "version": "1.0.0.0",
+  "description": "A handy tome for the schollarly contractor",
+  "main": "index.js",
+  "author": "Cody and Collin",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vuepress": "^0.10.0"
+  }
+}
