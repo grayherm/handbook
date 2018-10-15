@@ -1,9 +1,5 @@
 # Reserves System
 
-**Table of Contents**
-
-[[_TOC_]]
-
 ## Introduction
 
 The reserves system is a solution for those who wish to stay within the unit but not have the time to attend sessions consistently. The reasoning behind moving reserves is completely irrelevant to us, anyone can request to be moved to reserves at any time for any reason.

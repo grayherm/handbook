@@ -1,9 +1,5 @@
 # Getting Started
 
-**Table of Contents**
-
-[[_TOC_]]
-
 ## Recruitment
 Join the [Discord](https://uagpmc.com/discord) and ask for a recruiter.
 
