@@ -1,7 +1,7 @@
 # Section 1: Getting Started
 
 ## 1. Recruitment
-Join the [Discord](https://uagpmc.com/discord) and ask for a recruiter.
+Join the [Discord](https://uagpmc.com/discord) and ask for a recruiter or message **Cody** `(zeue#0001)`.
 
 ## 2. Modpack Setup
 Setting up the modpack is easy, but is quite unique from traditional setups. Because of this, we ask that you follow every step in this guide in order to properly download all of the mods and ensure you can jump into sessions without any issues.
@@ -33,13 +33,13 @@ Installing and setting up ACRE2 is easy when we use ACRE2 it is automatically in
 ## 4. Things to Consider
 
 ### 4a. When are our operations?
-Our operation times are Saturday and Sunday 17:30 UTC check on the bottom of our website (https://uagpmc.com/) for a timer till our next operation.
+Our operation times are Saturday and Sunday 17:30 UTC check on the bottom of our [website](https://uagpmc.com/) for a timer till our next operation.
 
 ### 4b. Can't Attend a Session?
 If you cant attend a session during your time as a recruit please contact Cody on discord or steam and let him know 24 hours in advance.
 
 ### 4c. Using Premade Loadouts
-To use our premade loadouts please refer to (https://armapmc.com/api/get-loadouts/).
+To use our premade loadouts please refer to [this page](https://armapmc.com/api/get-loadouts/).
 
 ### 4d. Restrictions for Recruits
 As a Recruit you are more of a temp and not officially in the unit yet you are usually a basic rifleman that carries ammo for our AT or AR members, once a member you are allowed to choose what role you play as till then just listen to the section commander.
