@@ -52,7 +52,11 @@ module.exports = {
         repoLabel: 'Contribute!',
         docsDir: 'docs',
         editLinks: true,
-        editLinkText: 'Help us improve this page!'
+        editLinkText: 'Help us improve this page!',
+        algolia: {
+            apiKey: 'ad618428dcffec7d35c9f77b544b1d9a',
+            indexName: 'uagpmc'
+        }
     },
     markdown: {
         lineNumbers: true
