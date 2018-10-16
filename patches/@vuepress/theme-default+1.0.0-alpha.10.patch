@@ -1,0 +1,12 @@
+patch-package
+--- a/node_modules/@vuepress/theme-default/index.js
++++ b/node_modules/@vuepress/theme-default/index.js
+@@ -12,7 +12,7 @@ module.exports = (options, ctx) => ({
+     )
+     return {
+       '@AlgoliaSearchBox': isAlgoliaSearch
+-        ? path.resolve(__dirname, 'src/AlgoliaSearchBox.vue')
++        ? path.resolve(__dirname, 'components/AlgoliaSearchBox.vue')
+         : path.resolve(__dirname, 'noopModule.js')
+     }
+   },
