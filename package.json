@@ -8,10 +8,13 @@
   "private": false,
   "scripts": {
     "start": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "build": "vuepress build docs",
+    "postinstall": "patch-package"
   },
   "dependencies": {},
   "devDependencies": {
+    "patch-package": "^5.1.1",
+    "postinstall-postinstall": "^1.0.0",
     "vuepress": "^1.0.0-alpha.10",
     "vuepress-plugin-flowchart": "^1.4.2"
   }
