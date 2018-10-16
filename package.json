@@ -1,6 +1,6 @@
 {
   "name": "handbook",
-  "version": "1.0.0.0",
+  "version": "1.0.0",
   "description": "A handy tome for the scholarly contractor",
   "main": "index.js",
   "author": "Cody and Collin",
