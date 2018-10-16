@@ -7,6 +7,7 @@ pages:
 
   script:
   - yarn install
+  - yarn patch-package
   - yarn run build
 
   artifacts:
