@@ -14,7 +14,8 @@ module.exports = {
         sidebar: {
             '/ch0/': [
                 '',
-                ["getting-started", "Section 1: Getting Started"],
+		'code-of-conduct',
+                'getting-started',
                 'reserves-system'
             ]
         },
