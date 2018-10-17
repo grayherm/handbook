@@ -7,8 +7,8 @@ Join the [Discord](https://uagpmc.com/discord) and ask for a recruiter or messag
 Setting up the modpack is easy, but is quite unique from traditional setups. Because of this, we ask that you follow every step in this guide in order to properly download all of the mods and ensure you can jump into sessions without any issues.
 
 ### 2a. Installing
-* Add Cody on Steam to gain access to the private mod.
-Subscribe to our setup mod on the Steam Workshop, this essentially keeps track of all other required mod items and allows for quick install and update.
+* Add Cody on [Steam](https://steamcommunity.com/id/codyburton/) to gain access to the private mod.
+* Subscribe to our setup mod on the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1092924095), this essentially keeps track of all other required mod items and allows for quick install and update.
 * Open up the Arma 3 launcher and select the “MODS” tab and select “Unload all” in the top-right if you have any mods already enabled.
 * Under “Available mods” enable our workshop item and then select the “Load selected mods” option to subscribe to and load our entire modpack.
 * Wait for the launcher to download and enable the mods and then you’re all done!
