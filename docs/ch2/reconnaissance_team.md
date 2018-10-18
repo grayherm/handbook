@@ -40,12 +40,4 @@ We report to HQ directly, all of our orders need to come from HQ but if the sect
 
 We will arrange for our exfil usually with the section, but if we are too far out we will arrange with air core and command to leave the area
 
-<br/>
-<br/>
-<br/>
-Pretty much it tbh, recon is a fairly straight forward role, with some complicated aspects in regards to your distance and other aspects. It isn't for everyone and many find it can be a boring role as it can be a lot of sitting around, but once the shooting starts, it feels great. 
-<br/>
-<br/>
-<br/>
-<br/>
-**Green team best team**
+Pretty much it tbh, recon is a fairly straight forward role, with some complicated aspects in regards to your distance and other aspects. It isn't for everyone and many find it can be a boring role as it can be a lot of sitting around, but once the shooting starts, it feels great. **Green team best team**
