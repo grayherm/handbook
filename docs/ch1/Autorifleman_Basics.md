@@ -1,18 +1,9 @@
 # Autorifleman Basics
 
-## Surpressing Fire
-Rule of thumb for surpessing the enemy is three round burst every two seconds, try to surpress the surpresser, get in a postion where you have cover and can surpress a majority of the enemies, and if possible us your bipod.
+## 1. Introduction
 
-### Different Types of Surpressing Fire
+The role of an Autorifleman is a pretty simple thing to do. As an Autorifleman you surpress the enemy and protect your team.
 
-#### Defensive
-Defensive surpressive fire is to hold your postion and prevent enemies from gaining ground. Keep your eyes on multiple teams of enemies try to keep them all surpressed with your basic three rounds every two seconds.
+## 2. The Difference Between Surpressive fire and Cover fire.
 
-#### Offinsive
-Offinsive surpressive fire is to surpress while pushing forward on a position. Shoot and scoot, surpress while half of your team moves forward and vice versa until your entire team makes it to the position
-
-#### Distraction
-Distraction surpressive fire is to allow another team to push without being surpressed or killed. surpress the enemy get their attention towards you.
-
-## Aditional Gear You can Take
-If you can spare some weight and room try to take a SSWT Kit a portable tripod that you can rest your gun on for stability, Vector 21 binocs to get a range, and last but not least never forget your bannanas.
+Cover fire is used for when you want to keep the enemys fire away from a certain postion, bassically distract the enemy towards your postion so another postion can do their own thing.
