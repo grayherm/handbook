@@ -14,9 +14,13 @@ module.exports = {
         sidebar: {
             '/ch0/': [
                 '',
-		'code-of-conduct',
+		        'code-of-conduct',
                 'getting-started',
                 'reserves-system'
+            ],
+            '/ch1/': [
+                '',
+		        'medical-procedures'
             ]
         },
         sidebarDepth: 4,
