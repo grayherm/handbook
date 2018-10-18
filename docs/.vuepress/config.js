@@ -16,7 +16,8 @@ module.exports = {
                 '',
 		'code-of-conduct',
                 'getting-started',
-                'reserves-system'
+                'reserves-system',
+		'unit-organisation'
             ]
         },
         sidebarDepth: 4,
