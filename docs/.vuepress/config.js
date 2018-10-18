@@ -21,6 +21,10 @@ module.exports = {
             '/ch1/': [
                 '',
 		        'medical-procedures'
+	        ],
+            '/ch2/': [
+                '',
+                'reconnaissance-team.md'
             ]
         },
         sidebarDepth: 4,

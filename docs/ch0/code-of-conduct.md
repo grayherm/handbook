@@ -17,3 +17,6 @@ Here are some brief examples of what we're talking about:
 
 When playing in-game we assign people together in teams of two, usually in complimentary pairs to increase combat effectiveness. We require that all players stick with their buddy no matter what, this allows us to maintain a much more firm condition of situational awareness and saves contractors' lives every session. Your buddy is your responsibility, and your buddy team itself is the responsibility of the team leader. Never give them up, never let them down, never desert them.
 
+## 3. Discord Guidelines
+
+We use Discord outside of sessions to coordinate and communicate with everyone much easier than the Steam or TeamSpeak-only alternatives. By using Discord, you already agree to following the [guidelines](https://discordapp.com/guidelines), so as a unit hosted primarily on Discord we expect everyone to follow these guidelines by default.
