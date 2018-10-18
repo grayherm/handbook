@@ -18,6 +18,10 @@ module.exports = {
                 'getting-started',
                 'reserves-system'
             ],
+            '/ch1/': [
+                '',
+		        'medical-procedures'
+	        ],
             '/ch2/': [
                 '',
                 'reconnaissance-team.md'
