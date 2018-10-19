@@ -1,4 +1,4 @@
-# Section 1: Autorifleman Basics
+# Section 3: Autorifleman Basics
 
 ## 1. Introduction
 
