@@ -38,3 +38,7 @@ The way you manually control your UAV depends on what type of uav it is please r
 To control your UAV autonomously open your UAV terminal select the UAV you want to control and [**Shift+Left click**] that places a waypoint onto the map [**Right click**] the point and select your Type, Behavour, and Altitude and your UAV will rise to the set altitude and move to the postion and procede to do what type of operation you told it to do whether that be loiter, move, land, ect.
 
 ## 4. Using the Camera
+
+## TL;DR
+
+If you dont want to read here is a good video on the basics of UAV operations https://www.youtube.com/watch?v=Ao4xwe3HnVY
