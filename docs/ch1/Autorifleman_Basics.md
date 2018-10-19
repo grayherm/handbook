@@ -12,13 +12,9 @@ But covering fire is done when you’re trying to steer enemy’s fire away from
 
 Let’s say the scenario is happening in an active warzone and there are leads flying everywhere. The guy in the back will spray his rifle toward the enemies in the hope that they will target him instead of the medic who’s busy with the casualty a little behind, or at least make their fires a bit less accurate to ease up the bullets endangering the medic who’s doing his/her job.
 
-The guy is doing covering fire.
-
 Covering fire is done to support another unit/personnel with their operation and/or mobilisation.
 
 Suppressive fire, on the other hand, means that no one is needing cover: The only thing that you want to need cover is the enemies.
-
-This is suppressive fire at its finest.
 
 The idea is to make a storm of metal so intense that the enemies don’t even dare to even poke their head out of their covers, let alone returning fire. This will impede their motions and buy time for air support or more final solutions to finish them off, or to allow units to maneuver closer to them to get more of a fighting edge.
 
@@ -29,4 +25,6 @@ Suppressive fire is to prevent enemies from mobilising or to conduct their opera
 Both have to do with mobilisation and operating, which are all vital to a fight. A combat unit who can mobilise more freely and operating more efficiently will usually emerge victorious over opponents who are starved of the two things above.
 ## 3. Equipment
 
-### 
+### 3a. Your gun
+
+Your gun is your most used tool its what goes shooty shooty bang bang. Your gun should be able to hold atleast 100 rounds of amunition 
