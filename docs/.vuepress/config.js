@@ -21,7 +21,8 @@ module.exports = {
             ],
             '/ch1/': [
                 '',
-		        'medical-procedures'
+		        'medical-procedures',
+		        'autorifleman-basics'
 	        ],
             '/ch2/': [
                 '',
