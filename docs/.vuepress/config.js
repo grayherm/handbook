@@ -26,7 +26,8 @@ module.exports = {
 	        ],
             '/ch2/': [
                 '',
-                'reconnaissance-team.md'
+                'reconnaissance-team',
+                'uav-operator'
             ]
         },
         sidebarDepth: 4,
