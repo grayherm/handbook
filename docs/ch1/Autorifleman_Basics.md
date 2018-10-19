@@ -17,6 +17,23 @@ The idea is to make a storm of metal so intense that the enemies don’t even da
 Suppressive fire is to prevent enemies from mobilising or to conduct their operations efficiently.
 
 Both have to do with mobilisation and operating, which are all vital to a fight. A combat unit who can mobilise more freely and operating more efficiently will usually emerge victorious over opponents who are starved of the two things above.
+
+### 2a. The different types of fire support
+
+Basic rule of thumb for all types of fire support is to do three round burst every two seconds or so this will conserve your ammo and keep the enemy down while you perform your operations.
+
+#### The Shoot and Scoot/ Leap Frog Method
+
+The shoot and scoot method is used to gain teritory as one team split in half as an autorifleman you are the main supressor aim at the enemy and provide cover fire for the other half of your team to move up after they do they will do the same for you and so on.
+
+#### The Tactical Retreat Method
+
+When retreating try to keep eyes on the enemy and keep them pinned while making your way inbetween covers to your evac point.
+
+#### The Get off my Lawn Method
+
+Similar to a marksman you find a high postion that has eyes on a good majority of the battle field and keep the enemies surpressed to keep them from moving forward to your postion.
+
 ## 3. Equipment
 
 ### 3a. Your gun
