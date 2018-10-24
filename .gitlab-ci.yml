@@ -2,7 +2,7 @@ image: node:9.11.1
 
 pages:
   script:
-    - apt install lftp -y
+    - apt update -y && apt install lftp -y
     - yarn install
     - yarn patch-package
     - yarn build
