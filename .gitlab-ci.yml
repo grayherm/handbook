@@ -6,6 +6,6 @@ pages:
     - yarn install
     - yarn patch-package
     - yarn build
-    - lftp -e "mirror -R ./public ./" -u $upUser,$upPass $upHost
+    - lftp -e "set ftp:ssl-allow no; mirror -R ./public ./" -u $upUser,$upPass $upHost
   only:
     - master
