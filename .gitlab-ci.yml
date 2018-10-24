@@ -1,18 +1,10 @@
 image: node:9.11.1
 
 pages:
-  cache:
-    paths:
-    - node_modules/
-
   script:
-  - yarn install
-  - yarn patch-package
-  - yarn run build
-
-  artifacts:
-    paths:
-    - public
-  
+    - yarn install
+    - yarn patch-package
+    - yarn build
+    - lftp -e "mirror -R ./public ./" -u $upUser,$upPass $upHost
   only:
-  - master
+    - master
