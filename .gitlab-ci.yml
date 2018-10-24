@@ -1,6 +1,6 @@
 image: node:9.11.1
 
-pages:
+build_and_upload:
   script:
     - apt update -y && apt install lftp -y
     - yarn install
