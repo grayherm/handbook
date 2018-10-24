@@ -15,7 +15,6 @@
   "devDependencies": {
     "patch-package": "^5.1.1",
     "postinstall-postinstall": "^1.0.0",
-    "vuepress": "^1.0.0-alpha.10",
-    "vuepress-plugin-flowchart": "^1.4.2"
+    "vuepress": "^1.0.0-alpha.10"
   }
 }
