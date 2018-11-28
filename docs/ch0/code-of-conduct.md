@@ -20,3 +20,11 @@ When playing in-game we assign people together in teams of two, usually in compl
 ## 3. Discord Guidelines
 
 We use Discord outside of sessions to coordinate and communicate with everyone much easier than the Steam or TeamSpeak-only alternatives. By using Discord, you already agree to following the [guidelines](https://discordapp.com/guidelines), so as a unit hosted primarily on Discord we expect everyone to follow these guidelines by default.
+
+## 4. Banned Memes
+
+In order to maintain the sanity of all that shitpost in the UAG Discord, we have some **banned memes** that all users are not permitted to post in any text channel. DMs are non-policable, this only applies to the Official Discord's channels!
+
+The banned memes, and all other sub-meme variants of said memes, are as follows:
+
+- "They did surgery on a grape"
