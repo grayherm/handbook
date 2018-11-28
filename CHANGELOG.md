@@ -2,6 +2,15 @@
 ## [Unreleased]
 
 
+<a name="v1.0.3"></a>
+## [v1.0.3] - 2018-11-28
+### Add
+- add new changelog gen files, delete old changelog file
+
+### Update
+- update VERSION file
+
+
 <a name="v1.0.2-r2"></a>
 ## [v1.0.2-r2] - 2018-11-28
 ### Update
@@ -215,7 +224,8 @@
 - big revert
 
 
-[Unreleased]: https://gitlab.com/uag/handbook/compare/v1.0.2-r2...master
+[Unreleased]: https://gitlab.com/uag/handbook/compare/v1.0.3...master
+[v1.0.3]: https://gitlab.com/uag/handbook/compare/v1.0.2-r2...v1.0.3
 [v1.0.2-r2]: https://gitlab.com/uag/handbook/compare/v1.0.2...v1.0.2-r2
 [v1.0.2]: https://gitlab.com/uag/handbook/compare/v1.0.0-r7...v1.0.2
 [v1.0.0-r7]: https://gitlab.com/uag/handbook/compare/v1.0.0-r5...v1.0.0-r7
