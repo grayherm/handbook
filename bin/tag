@@ -1,0 +1,22 @@
+#!/bin/bash
+
+if [ -z ${1+x} ];
+  then
+    echo "tag name is unset";
+  else
+    rm -rf VERSION
+    echo $1 >> VERSION
+    truncate -s $(($(stat -c '%s' VERSION)-1)) VERSION
+    git add VERSION
+    git commit -m "update VERSION file"
+
+    git tag "$1"
+
+    bin/lib/makeChangelog.go -o CHANGELOG.md
+    sed -i -e 's/...HEAD/...master/g' CHANGELOG.md
+
+    git add CHANGELOG.md
+    git commit -m "$1: automated release"
+    git push
+    git push --tags
+fi
