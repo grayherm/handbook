@@ -9,4 +9,4 @@ RUN cd handbook.uagpmc.com && \
 
 EXPOSE 80/tcp
 
-CMD cd handbook.uagpmc.com && node_modules/.bin/serve -l 80 public/
+CMD cd handbook.uagpmc.com && node_modules/.bin/http-server -p 80 -a 0.0.0.0 --gzip
