@@ -2,6 +2,13 @@
 ## [Unreleased]
 
 
+<a name="v1.0.9"></a>
+## [v1.0.9] - 2018-11-29
+### Update
+- update VERSION file
+- update packages
+
+
 <a name="v1.0.7"></a>
 ## [v1.0.7] - 2018-11-29
 ### Replace
@@ -269,7 +276,8 @@
 - big revert
 
 
-[Unreleased]: https://gitlab.com/uag/handbook/compare/v1.0.7...master
+[Unreleased]: https://gitlab.com/uag/handbook/compare/v1.0.9...master
+[v1.0.9]: https://gitlab.com/uag/handbook/compare/v1.0.7...v1.0.9
 [v1.0.7]: https://gitlab.com/uag/handbook/compare/v1.0.4-r5...v1.0.7
 [v1.0.4-r5]: https://gitlab.com/uag/handbook/compare/v1.0.4-r3...v1.0.4-r5
 [v1.0.4-r3]: https://gitlab.com/uag/handbook/compare/v1.0.4-r2...v1.0.4-r3
