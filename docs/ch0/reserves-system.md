@@ -37,4 +37,4 @@ The following restrictions are applied to all reserves who join a session:
 
 - Reserves are not given a choice of role in-game, and must fill less-desired roles if they are requested to.
 - Reserves are not allowed to take on more critical roles in a session.
-  - ***For example:** pilots, drivers, leaders, specialists, rp-helpers, etc*
+  - **\*For example:** pilots, drivers, leaders, specialists, rp-helpers, etc\*

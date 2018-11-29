@@ -1,23 +1,27 @@
 # Section 2: Medical Procedures
 
-
 ## 1. Introduction
-Real UAG men use the Ace3 medical system, so here’s what you need to know to survive and stay healthy. * Even as a basic rifleman, you will be required to know at least the basics of the ace medical system and what to do in different situations to - you know - not let people die.
+
+Real UAG men use the Ace3 medical system, so here’s what you need to know to survive and stay healthy. \* Even as a basic rifleman, you will be required to know at least the basics of the ace medical system and what to do in different situations to - you know - not let people die.
 
 ## 2. Controls and UI
-To treat yourself, self-interact using Ctrl + Win. To treat someone else, use Win. 
+
+To treat yourself, self-interact using Ctrl + Win. To treat someone else, use Win.
 Navigate to the medical section of the patient, and you will be able to see their current status of individual body parts and their medical history.
 When your screen is pulsing with a red-blue effect, that means you’re in pain
 When your vision loses colour, you’re low on blood
 When you hear a heartbeat, your pulse is low
 
 ## 3. Common Injuries
+
 Out of the many injuries that you may encounter, a common one will be velocity, which occurs when you get shot or damaged by shrapnel. Other wounds include Avulsions, Contusions, Abrasions and more.
 
 ## 4. Medical equipment
+
 You will have access to a variety of medical equipment during the ops, so it is important to know which one does what.
 
 ### 4a. Bandages
+
 There are 4 main types of bandages you can use with ace; Field dressings, Packing bandages, elastic bandages, and QuickClot. Here is a chart to show the effectiveness of each on different wounds.
 ![Effectiveness of Bandages](https://ace3mod.com/img/wiki/feature/medical1.jpg)
 
@@ -41,7 +45,7 @@ Epinephrine will increase the heart rate
 ### 5a. Self Treatment
 
 In almost any situation putting on tourniquets is a good idea, with the exception of light damage to one or two limbs.** Remember that tourniquets will stop the limb it is applied to from bleeding, so you’ll have more time to patch yourself up before bleeding out
-Before treating yourself or anyone else, you need to identify the situation. In the middle of a firefight and without cover, it is not a good idea to stand and give yourself a full medical operation. 
+Before treating yourself or anyone else, you need to identify the situation. In the middle of a firefight and without cover, it is not a good idea to stand and give yourself a full medical operation.
 When in cover, you can begin to patch yourself up. Using elastic bandages when you need to travel somewhere immediately or can’t take the time to properly bandage your wounds. Keep in mind elastic bandages have a high chance of reopening
 If you can, using QuickClot for any wounds is recommended.
 And remember to remove all tourniquets after you’re done**
@@ -52,6 +56,7 @@ Autoinjectors will not work if applied to a limb with a tourniquet on**
 The result should be you’re alive and ready to continue.
 
 ### 5b. Treatment
+
 If the patient is unresponsive, make sure you’re in a safe position and notify someone of the situation.
 Check if they’re not dead by looking at your Android. There should still be a marker on their position if they’re alive. If they are, continue. Otherwise, your job is done.
 First, check their pulse. If there is none, provide CPR and apply tourniquets to damaged limbs and stabilize the patient. If the patient has no pulse, skip to step 3.
@@ -59,12 +64,14 @@ After removing the tourniquets, check their blood pressure and use a blood bag i
 Use a PAK if the patient is still unresponsive/has no pulse.
 
 ## 6. Tips
+
 Use Tourniquets or our medic will be sad
 Remove tourniquets when you’re done
 Only use a PAK when it is really needed.
 Don’t overdose on morphine. Remember: Overdose = Comatose
 
 ## 7. TL;DR
+
 Elastics for temporary, QuickClot for lasting
 You get booboo? Tourniquet and fix
 Don’t keep a tourniquet on for too long
@@ -72,6 +79,4 @@ In pain? Morphine
 Someone is down and has no heart rate? Bandage and PAK them
 Stay woke, stay frosty.
 
-
-
-###### *excludes mental scarring that may occur as a result of exposure to memes
+###### \*excludes mental scarring that may occur as a result of exposure to memes

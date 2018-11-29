@@ -42,7 +42,7 @@ Your gun is your most used tool its what goes shooty shooty bang bang. Your basi
 
 ### 3b. Bitch Boi
 
-Your "*Bitch Boi*" is a basic rifleman that carries extra amunition for you. Protect this boi if he dies and you run out of ammo your fucked have fun.
+Your "_Bitch Boi_" is a basic rifleman that carries extra amunition for you. Protect this boi if he dies and you run out of ammo your fucked have fun.
 
 ### 3c. Uniform
 

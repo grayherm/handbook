@@ -41,4 +41,3 @@
 ### 2e. Intelligence
 
 `...`
-
