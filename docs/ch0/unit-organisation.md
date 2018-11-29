@@ -2,7 +2,7 @@
 
 ## 1. Order of Battle (ORBAT)
 
-[![](/org-cheatsheet.png)](/org-cheatsheet.png)
+[![](/orbat-comms.png)](/orbat-comms.png)
 
 > UAG's structure may change during sessions to fit the current situation better, but the general structure supports our focus on "small team tactics" no matter how many people are attending a session.
 
