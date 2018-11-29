@@ -36,7 +36,7 @@ update_dev_version:
   - echo "$googKey" > key.json
   - gcloud auth activate-service-account --key-file key.json
   - git config --global credential.'https://source.developers.google.com'.helper gcloud.sh
-  - gcloud container clusters get-credentials your-first-cluster --zone us-central1-a --project pn-sharedhosting
+  - gcloud container clusters get-credentials your-first-cluster-1 --zone us-central1-a --project pn-sharedhosting
   - kubectl --namespace=default set image deployment handbook-uagpmc-com handbook-uagpmc-com=gcr.io/pn-sharedhosting/handbook-uagpmc-com:$CI_COMMIT_TAG
   only:
   - tags
