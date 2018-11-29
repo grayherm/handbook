@@ -2,6 +2,15 @@
 ## [Unreleased]
 
 
+<a name="v1.0.4-r5"></a>
+## [v1.0.4-r5] - 2018-11-29
+### I
+- I lied
+
+### Update
+- update VERSION file
+
+
 <a name="v1.0.4-r3"></a>
 ## [v1.0.4-r3] - 2018-11-29
 ### Hopefully
@@ -251,7 +260,8 @@
 - big revert
 
 
-[Unreleased]: https://gitlab.com/uag/handbook/compare/v1.0.4-r3...master
+[Unreleased]: https://gitlab.com/uag/handbook/compare/v1.0.4-r5...master
+[v1.0.4-r5]: https://gitlab.com/uag/handbook/compare/v1.0.4-r3...v1.0.4-r5
 [v1.0.4-r3]: https://gitlab.com/uag/handbook/compare/v1.0.4-r2...v1.0.4-r3
 [v1.0.4-r2]: https://gitlab.com/uag/handbook/compare/v1.0.4...v1.0.4-r2
 [v1.0.4]: https://gitlab.com/uag/handbook/compare/v1.0.3...v1.0.4
