@@ -33,7 +33,7 @@ update_dev_version:
   image: google/cloud-sdk
   stage: deploy_to_gce
   script:
-  - echo "$googleUploadMirrorCred" > key.json
+  - echo "$googKey" > key.json
   - gcloud auth activate-service-account --key-file key.json
   - git config --global credential.'https://source.developers.google.com'.helper gcloud.sh
   - gcloud container clusters get-credentials hermes --zone us-central1-a --project pn-sharedhosting
