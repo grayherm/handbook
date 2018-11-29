@@ -2,6 +2,15 @@
 ## [Unreleased]
 
 
+<a name="v1.0.4"></a>
+## [v1.0.4] - 2018-11-29
+### Update
+- update VERSION file
+
+### Update
+- Update .gitlab-ci.yml
+
+
 <a name="v1.0.3"></a>
 ## [v1.0.3] - 2018-11-28
 ### Add
@@ -224,7 +233,8 @@
 - big revert
 
 
-[Unreleased]: https://gitlab.com/uag/handbook/compare/v1.0.3...master
+[Unreleased]: https://gitlab.com/uag/handbook/compare/v1.0.4...master
+[v1.0.4]: https://gitlab.com/uag/handbook/compare/v1.0.3...v1.0.4
 [v1.0.3]: https://gitlab.com/uag/handbook/compare/v1.0.2-r2...v1.0.3
 [v1.0.2-r2]: https://gitlab.com/uag/handbook/compare/v1.0.2...v1.0.2-r2
 [v1.0.2]: https://gitlab.com/uag/handbook/compare/v1.0.0-r7...v1.0.2
