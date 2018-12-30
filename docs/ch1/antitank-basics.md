@@ -23,6 +23,7 @@ HAT is the biggest of boys with big rounds and long ranges of up bassicly how fa
 
 Guess what these boys have armor and you are anti armor but there isn't just one kind you've got multiple i'll be going over 3. First off just metal plates they're just plates use any anti tank round and you'll be fine. Next we have slat armor which is like a cage around the vehicle the cage is made to make HEAT rounds and other charge anti tank rounds explode before they reach the tank itself, bassically making them useless.
 Last we will talk about ERA (explosive reactive armor) which looks like squares you'll know what it is when you see it, they are made out of 2 metal plates with an explosive charge inbetween them. when hit the explosive charge inbetween them will go off and cause the round to either deflect or lose a larg amount of energy.
+And remember the weakest sides of a tank are the rear and the sides when firing at the sides make sure you're not hitting reactive armor unless you want to die.
 
 ## 6. Extra stuff and TL;DR
 
