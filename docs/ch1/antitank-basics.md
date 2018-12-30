@@ -24,6 +24,8 @@ HAT is the biggest of boys with big rounds and long ranges of up bassicly how fa
 Guess what these boys have armor and you are anti armor but there isn't just one kind you've got multiple i'll be going over 3. First off just metal plates they're just plates use any anti tank round and you'll be fine. Next we have slat armor which is like a cage around the vehicle the cage is made to make HEAT rounds and other charge anti tank rounds explode before they reach the tank itself, bassically making them useless.
 Last we will talk about ERA (explosive reactive armor) which looks like squares you'll know what it is when you see it, they are made out of 2 metal plates with an explosive charge inbetween them. when hit the explosive charge inbetween them will go off and cause the round to either deflect or lose a larg amount of energy.
 
-## TL;DR 
+## 6. Extra stuff and TL;DR
+
+Take rangefinders and make sure you have different ammunitions when you're MAT or HAT.
 
 Don's shoot HEAT at cages and try to not hit the square plates. LAT launchers are M136 RPG-18 M76LAW ILAW and some more. MAT is the RPG-7 MAAWS or Carl Gustav. HAT is the javelin or the titan.
