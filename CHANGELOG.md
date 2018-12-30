@@ -2,6 +2,28 @@
 ## [Unreleased]
 
 
+<a name="v1.1.7"></a>
+## [v1.1.7] - 2018-12-30
+### Update
+- update VERSION and BUILD files [skip ci]
+
+
+
+<a name="v1.1.5"></a>
+## [v1.1.5] - 2018-12-30
+### Add
+- add new headers for new orbat
+
+### Remove
+- Remove ACRE instructions from getting-started.md
+
+### Update
+- update VERSION and BUILD files [skip ci]
+
+### Update
+- Update `bin/tag` with new changes
+
+
 <a name="v1.1.2"></a>
 ## [v1.1.2] - 2018-11-29
 ### Another
@@ -291,7 +313,9 @@
 - big revert
 
 
-[Unreleased]: https://gitlab.com/uag/handbook/compare/v1.1.2...master
+[Unreleased]: https://gitlab.com/uag/handbook/compare/v1.1.7...master
+[v1.1.7]: https://gitlab.com/uag/handbook/compare/v1.1.5-b181230011952...v1.1.7
+[v1.1.5]: https://gitlab.com/uag/handbook/compare/v1.1.2...v1.1.5
 [v1.1.2]: https://gitlab.com/uag/handbook/compare/v1.0.9...v1.1.2
 [v1.0.9]: https://gitlab.com/uag/handbook/compare/v1.0.7...v1.0.9
 [v1.0.7]: https://gitlab.com/uag/handbook/compare/v1.0.4-r5...v1.0.7
