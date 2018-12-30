@@ -4,7 +4,29 @@
 
 Join the [Discord](https://uagpmc.com/discord) and ask for a recruiter or message **Cody** `(zeue#0001)`.
 
-## 2. Modpack Setup
+## 2. Things to Consider before Recruitment:
+
+### 2a. When are our operations?
+
+Our operation times are Saturday and Sunday 17:30 UTC check on the bottom of our [website](https://uagpmc.com/) for a timer till our next operation.
+
+### 2b. Can't Attend a Session?
+
+If you cant attend a session during your time as a recruit please contact one of the Big Boys on discord or steam and let him know 24 hours in advance. Note that currently Zyrtex handles attendance for all members and recruits.
+
+### 2c. Using Premade Loadouts.
+
+To use our premade loadouts please refer to [this page](https://armapmc.com/api/get-loadouts/).
+
+### 2d. Restrictions for Recruits.
+
+As a Recruit you are just a temporary member within UAG and your role is dynamic. Meaning that you will fill any vital role during an OP that official members have not filled. For instance if an ammo bearer role is not filled by an official member, you will automatically fill said role.
+
+### 2f. Recruitment Process.
+
+As a recruit you must attend two operations before we can consider you a full member. We use internal voting to decide whether or not we extend your recruitment, kick you out, or allow you to join based off of your attitude towards other players.
+
+## 3. Modpack Setup
 
 Setting up the modpack is easy, but is quite unique from traditional setups. Because of this, we ask that you follow every step in this guide in order to properly download all of the mods and ensure you can jump into sessions without any issues.
 
@@ -20,13 +42,9 @@ Setting up the modpack is easy, but is quite unique from traditional setups. Bec
 
 Updating the modpack is simple! All you need to do is restart your Arma 3 Launcher, unload all mods, then reload the setup mod you downloaded to begin with.
 
-### 2c. Configuring
+### 2c. Uninstalling
 
-`...`
-
-### 2d. Uninstalling
-
-`...`
+Unload all the mods, select "More" and select "Unsubscribe From All Mods". If you can't, unsubscribe from all the mods manually.
 
 ## 3. Setting up Task Force Arrowhead Radio or Advanced Combat Radio Environment 2
 
@@ -39,24 +57,32 @@ To install and set up TFAR just download our modpack once downloaded go to `C:\P
 Installing and setting up ACRE2 is easy when we use ACRE2 it is automatically installed in our modpack and once you launch the game it will automatically set up in your TeamSpeak 3 client just enable it in Tools-> Options-> Addons of your TS3 client.
 -->
 
-## 4. Things to Consider
+## 4. Joining the Server.
 
-### 4a. When are our operations?
+Before joining the server you are required to do two things:
 
-Our operation times are Saturday and Sunday 17:30 UTC check on the bottom of our [website](https://uagpmc.com/) for a timer till our next operation.
+### 4a. Disable BattlEye.
 
-### 4b. Can't Attend a Session?
+To disable Battleye open your ArmA III launcher, go on BattlEye and untick "Enable BattlEye anti-cheat software"
 
-If you cant attend a session during your time as a recruit please contact Cody on discord or steam and let him know 24 hours in advance.
+### 4b. Change your Profile name.
 
-### 4c. Using Premade Loadouts
+You are required to change your ingame profile name to the shortened name assigned to you when you joined the unit. If you are unable to change the profile name, please create a new one with the name assigned. This simply used for identification purposes.
 
-To use our premade loadouts please refer to [this page](https://armapmc.com/api/get-loadouts/).
+## 5. Mod Configuration:
 
-### 4d. Restrictions for Recruits
+### 5a. Enhanced Movement.
 
-As a Recruit you are more of a temp and not officially in the unit yet you are usually a basic rifleman that carries ammo for our AT or AR members, once a member you are allowed to choose what role you play as till then just listen to the section commander.
+In order to use the Enhanced Movement mod i.e climbing over walls or strategically using people as stools you are required to assign a key of your choice to it. In order to do this go into the Options menu, Controls, the find Custom Controls in the dropdown menu. Find "Use Action 1" and add your preferred key. The recommended key is the "\" button.
 
-### 4f. Needs to be Titled.
+## 6. Default Mod Keybindings:
 
-As a recruit you must attend two operations before we can consider you a full member. We use internal voting to decide whether or not we extend your recruitment, kick you out, or allow you to join based off of your attitude towards other players.
+To open your Android press H.
+
+To open your Android to interact with it, hold down Left Control button and press H.
+
+To use Ace Interact, hold down the Windows key.
+
+To use Ace Medical on someone, hold down the Windows key while looking at the person.
+
+To use Ace Medical on yourself, hold down both the Left Control button and the Windows key.
