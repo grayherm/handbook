@@ -1,3 +1,3 @@
-# Chapter 1: The Basic
+# Chapter 1: The Basics
 
 `...`
