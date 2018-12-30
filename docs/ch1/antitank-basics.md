@@ -4,6 +4,8 @@
 
 Anti-Tank is pretty self explanatory: you counter tanks, or well anything with armor.
 
+IMPORTANT!!! Your launchers have a backblast meaning anybody closely behind you will have his or her face melted off. Make sure people are clear from your backblast before firing.
+
 ## 2. Light Anti-Tank
 
 LAT (light anti-tank) is well light anti-tank. LAT most of the time is a preloaded launcher that cannot be reloaded. They cannot take on everything, but they can destroy light armor like
