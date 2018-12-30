@@ -58,6 +58,6 @@ Your SSWT Kit is a less taken piece of equipment but usefull. Its a foldable, ra
 
 This is your Range bois when on a base of fire team you need to be able to find the distance to a target these allow you to do that by pressing and holding **R**.
 
-## TL;DR
+## 4. TL;DR
 
 You have big gun, make enemy scared, keep team safe.
