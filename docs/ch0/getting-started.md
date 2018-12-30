@@ -32,11 +32,15 @@ Setting up the modpack is easy, but is quite unique from traditional setups. Bec
 
 ### 2a. Installing
 
-- Add Cody on [Steam](https://steamcommunity.com/id/codyburton/) to gain access to the private mod.
-- Subscribe to our setup mod on the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1092924095), this essentially keeps track of all other required mod items and allows for quick install and update.
-- Open up the Arma 3 launcher and select the “MODS” tab and select “Unload all” in the top-right if you have any mods already enabled.
-- Under “Available mods” enable our workshop item and then select the “Load selected mods” option to subscribe to and load our entire modpack.
-- Wait for the launcher to download and enable the mods and then you’re all done!
+1. Add Cody on [Steam](https://steamcommunity.com/id/codyburton/) to gain access to the private mod.
+
+2. Subscribe to our setup mod on the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1092924095), this essentially keeps track of all other required mod items and allows for quick install and update.
+
+3. Open up the Arma 3 launcher and select the “MODS” tab and select “Unload all” in the top-right if you have any mods already enabled.
+
+4. Under “Available mods” enable our workshop item and then select the “Load selected mods” option to subscribe to and load our entire modpack.
+
+5. Wait for the launcher to download and enable the mods and then you’re all done!
 
 ### 2b. Updating
 
@@ -73,16 +77,16 @@ You are required to change your ingame profile name to the shortened name assign
 
 ### 5a. Enhanced Movement
 
-In order to use the Enhanced Movement mod i.e climbing over walls or strategically using people as stools you are required to assign a key of your choice to it. In order to do this go into the Options menu, Controls, the find Custom Controls in the dropdown menu. Find "Use Action 1" and add your preferred key. The recommended key is the backslash button.
+In order to use the Enhanced Movement mod i.e climbing over walls or strategically using people as stools, you are required to assign a key of your choice to it. In order to do this go into the 'Options' menu, 'Controls' and then find 'Custom Controls' in the dropdown menu. Find "Use Action 1" and add your preferred key. The recommended key is the backslash '\' button.
 
 ## 6. Default Mod Keybindings
 
-To open your Android press H.
+To open your Android press 'H'.
 
-To open your Android to interact with it, hold down the Left Control button and press H.
+To open your Android to interact with it, hold down the 'Left Control' button and press 'H'.
 
-To use Ace Interact, hold down the Windows key.
+To use Ace Interact, hold down the 'Windows' key.
 
-To use Ace Medical on someone, hold down the Windows key while looking at the person.
+To use Ace Medical on someone, hold down the 'Windows' key while looking at the person.
 
-To use Ace Medical on yourself, hold down both the Left Control button and the Windows key.
+To use Ace Medical on yourself, hold down both the 'Left Control' button and the 'Windows' key.
