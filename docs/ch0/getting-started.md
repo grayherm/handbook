@@ -34,9 +34,10 @@ Updating the modpack is simple! All you need to do is restart your Arma 3 Launch
 
 To install and set up TFAR just download our modpack once downloaded go to `C:\Program Files (x86)\Steam\steamapps\common\Arma 3\!Workshop\@Task Force Arrowhead Radio (BETA!!!)\teamspeak` and double click the task_force_radio Add-on and it should auto install into your TeamSpeak 3 client once done go to `Tools->Options->Addons` of your TS3 client and enable Task Froce ARMA 3 Radio.
 
-### 3b. Advanced Combat Radio Environment 2 (ACRE2)
+<!--### 3b. Advanced Combat Radio Environment 2 (ACRE2)
 
 Installing and setting up ACRE2 is easy when we use ACRE2 it is automatically installed in our modpack and once you launch the game it will automatically set up in your TeamSpeak 3 client just enable it in Tools-> Options-> Addons of your TS3 client.
+-->
 
 ## 4. Things to Consider
 
