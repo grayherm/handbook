@@ -2,6 +2,13 @@
 ## [Unreleased]
 
 
+<a name="v1.2.0"></a>
+## [v1.2.0] - 2018-12-30
+### Update
+- update VERSION and BUILD files [skip ci]
+
+
+
 <a name="v1.2.09"></a>
 ## [v1.2.09] - 2018-12-30
 ### Fix
@@ -340,7 +347,8 @@
 - big revert
 
 
-[Unreleased]: https://gitlab.com/uag/handbook/compare/v1.2.09...master
+[Unreleased]: https://gitlab.com/uag/handbook/compare/v1.2.0...master
+[v1.2.0]: https://gitlab.com/uag/handbook/compare/v1.2.09-b181230013245...v1.2.0
 [v1.2.09]: https://gitlab.com/uag/handbook/compare/v1.1.13-b181230013046...v1.2.09
 [v1.1.13]: https://gitlab.com/uag/handbook/compare/v1.1.9-b181230012855...v1.1.13
 [v1.1.9]: https://gitlab.com/uag/handbook/compare/v1.1.7...v1.1.9
