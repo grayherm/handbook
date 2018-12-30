@@ -19,7 +19,7 @@ if [ -z ${1+x} ];
     git commit -m "update VERSION and BUILD files [skip ci]"
     git tag "$1-pre"
 
-    lib/makeChangelog.go -o CHANGELOG.md
+    bin/lib/makeChangelog.go -o CHANGELOG.md
     sed -i -e 's/...HEAD/...master/g' CHANGELOG.md
     sed -i -e 's/-pre//g' CHANGELOG.md
     sed -i -E '/\".+-b[[:digit:]]{8,}\"/d' CHANGELOG.md
