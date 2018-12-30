@@ -22,7 +22,7 @@ module.exports = {
         "reserves-system",
         "unit-organisation"
       ],
-      "/ch1/": ["", "medical-procedures", "autorifleman-basics"],
+      "/ch1/": ["", "radio-communication-basics", "medical-procedures", "autorifleman-basics", "antitank-basics"],
       "/ch2/": ["", "reconnaissance-team", "uav-operator"]
     },
     sidebarDepth: 4,
