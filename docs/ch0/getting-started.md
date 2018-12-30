@@ -73,11 +73,15 @@ To disable Battleye open your ArmA III launcher, go on BattlEye and untick "Enab
 
 You are required to change your ingame profile name to the shortened name assigned to you when you joined the unit. If you are unable to change the profile name, please create a new one with the name assigned. This simply used for identification purposes.
 
-## 5. Mod Configuration
+## 5. Configuration
 
 ### 5a. Enhanced Movement
 
 In order to use the Enhanced Movement mod i.e climbing over walls or strategically using people as stools, you are required to assign a key of your choice to it. In order to do this go into the 'Options' menu, 'Controls' and then find 'Custom Controls' in the dropdown menu. Find "Use Action 1" and add your preferred key. The recommended key is the backslash '\' button.
+
+### 5b. Grenade Use
+
+It is recommended to set the keybinding for grenades (when throwing them) to "double-tapping" the 'g' key.
 
 ## 6. Default Mod Keybindings
 
