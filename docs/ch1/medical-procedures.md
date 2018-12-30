@@ -73,10 +73,15 @@ Don’t overdose on morphine. Remember: Overdose = Comatose
 ## 7. TL;DR
 
 Elastics for temporary, QuickClot for lasting
+
 You get booboo? Tourniquet and fix
+
 Don’t keep a tourniquet on for too long
+
 In pain? Morphine
+
 Someone is down and has no heart rate? Bandage and PAK them
+
 Stay woke, stay frosty.
 
 ###### \*excludes mental scarring that may occur as a result of exposure to memes
