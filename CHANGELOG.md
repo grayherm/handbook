@@ -2,6 +2,19 @@
 ## [Unreleased]
 
 
+<a name="v1.2.4"></a>
+## [v1.2.4] - 2018-12-30
+### Merge
+- Merge branch 'radraegon/handbook-patch-1'
+
+### Moved
+- Moved "Things to consider before Recruitment" after "Recruitment" and before "Modpack Setup".
+
+### Update
+- update VERSION and BUILD files [skip ci]
+
+
+
 <a name="v1.2.0"></a>
 ## [v1.2.0] - 2018-12-30
 ### Update
@@ -28,9 +41,9 @@
 - update VERSION and BUILD files [skip ci]
 
 
-
 <a name="v1.1.9"></a>
 ## [v1.1.9] - 2018-12-30
+
 ### Update
 - update VERSION and BUILD files [skip ci]
 
@@ -42,9 +55,9 @@
 - update VERSION and BUILD files [skip ci]
 
 
-
 <a name="v1.1.5"></a>
 ## [v1.1.5] - 2018-12-30
+
 ### Add
 - add new headers for new orbat
 
@@ -347,13 +360,14 @@
 - big revert
 
 
-[Unreleased]: https://gitlab.com/uag/handbook/compare/v1.2.0...master
+[Unreleased]: https://gitlab.com/uag/handbook/compare/v1.2.4...master
+[v1.2.4]: https://gitlab.com/uag/handbook/compare/v1.2.0-b181230013247...v1.2.4
 [v1.2.0]: https://gitlab.com/uag/handbook/compare/v1.2.09-b181230013245...v1.2.0
 [v1.2.09]: https://gitlab.com/uag/handbook/compare/v1.1.13-b181230013046...v1.2.09
-[v1.1.13]: https://gitlab.com/uag/handbook/compare/v1.1.9-b181230012855...v1.1.13
-[v1.1.9]: https://gitlab.com/uag/handbook/compare/v1.1.7...v1.1.9
+[v1.1.13]: https://gitlab.com/uag/handbook/compare/v1.1.9...v1.1.13
+[v1.1.9]: https://gitlab.com/uag/handbook/compare/v1.1.9-b181230012855...v1.1.9
 [v1.1.7]: https://gitlab.com/uag/handbook/compare/v1.1.7-b181230012443...v1.1.7
-[v1.1.5]: https://gitlab.com/uag/handbook/compare/v1.1.2...v1.1.5
+[v1.1.5]: https://gitlab.com/uag/handbook/compare/v1.1.5-b181230011952...v1.1.5
 [v1.1.2]: https://gitlab.com/uag/handbook/compare/v1.0.9...v1.1.2
 [v1.0.9]: https://gitlab.com/uag/handbook/compare/v1.0.7...v1.0.9
 [v1.0.7]: https://gitlab.com/uag/handbook/compare/v1.0.4-r5...v1.0.7
