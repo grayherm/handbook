@@ -4,19 +4,31 @@ if [ -z ${1+x} ];
   then
     echo "tag name is unset";
   else
-    rm -rf VERSION
+    BUILD=$(date +%y%m%d%H%M%S)
+
+    rm -f VERSION
     echo $1 >> VERSION
     truncate -s $(($(stat -c '%s' VERSION)-1)) VERSION
     git add VERSION
-    git commit -m "update VERSION file"
 
-    git tag "$1"
+    rm -f BUILD
+    echo $BUILD >> BUILD
+    truncate -s $(($(stat -c '%s' BUILD)-1)) BUILD
+    git add BUILD
 
-    bin/lib/makeChangelog.go -o CHANGELOG.md
+    git commit -m "update VERSION and BUILD files [skip ci]"
+    git tag "$1-pre"
+
+    lib/makeChangelog.go -o CHANGELOG.md
     sed -i -e 's/...HEAD/...master/g' CHANGELOG.md
-
+    sed -i -e 's/-pre//g' CHANGELOG.md
+    sed -i -E '/\".+-b[[:digit:]]{8,}\"/d' CHANGELOG.md
+    sed -i -E '/\[.+-b[[:digit:]]{8,}\]/d' CHANGELOG.md
     git add CHANGELOG.md
-    git commit -m "$1: automated release"
+
+    git commit -m "$1-b$BUILD: automated release"
+    git tag "$1-b$BUILD"
+
     git push
     git push --tags
 fi
