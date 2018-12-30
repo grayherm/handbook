@@ -2,6 +2,16 @@
 ## [Unreleased]
 
 
+<a name="v1.2.09"></a>
+## [v1.2.09] - 2018-12-30
+### Fix
+- fix gitlab config
+
+### Update
+- update VERSION and BUILD files [skip ci]
+
+
+
 <a name="v1.1.13"></a>
 ## [v1.1.13] - 2018-12-30
 ### Modified
@@ -18,9 +28,9 @@
 - update VERSION and BUILD files [skip ci]
 
 
-
 <a name="v1.1.7"></a>
 ## [v1.1.7] - 2018-12-30
+
 ### Update
 - update VERSION and BUILD files [skip ci]
 
@@ -330,10 +340,11 @@
 - big revert
 
 
-[Unreleased]: https://gitlab.com/uag/handbook/compare/v1.1.13...master
+[Unreleased]: https://gitlab.com/uag/handbook/compare/v1.2.09...master
+[v1.2.09]: https://gitlab.com/uag/handbook/compare/v1.1.13-b181230013046...v1.2.09
 [v1.1.13]: https://gitlab.com/uag/handbook/compare/v1.1.9-b181230012855...v1.1.13
-[v1.1.9]: https://gitlab.com/uag/handbook/compare/v1.1.7-b181230012443...v1.1.9
-[v1.1.7]: https://gitlab.com/uag/handbook/compare/v1.1.5-b181230011952...v1.1.7
+[v1.1.9]: https://gitlab.com/uag/handbook/compare/v1.1.7...v1.1.9
+[v1.1.7]: https://gitlab.com/uag/handbook/compare/v1.1.7-b181230012443...v1.1.7
 [v1.1.5]: https://gitlab.com/uag/handbook/compare/v1.1.2...v1.1.5
 [v1.1.2]: https://gitlab.com/uag/handbook/compare/v1.0.9...v1.1.2
 [v1.0.9]: https://gitlab.com/uag/handbook/compare/v1.0.7...v1.0.9
