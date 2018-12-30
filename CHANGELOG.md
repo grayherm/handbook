@@ -2,6 +2,41 @@
 ## [Unreleased]
 
 
+<a name="v1.2.10"></a>
+## [v1.2.10] - 2018-12-30
+### Add
+- add proper header prefix to `autorifleman-basics`'s TL;DR
+- add new pages for AT and radio basics
+
+### Add
+- Add new file
+
+### Fix
+- fix `medical-procedures`'s TL;DR section
+
+### Merge
+- Merge branch 'master' of gitlab.com:uag/handbook
+
+### Move
+- move work done to unit-organisation under new header
+
+### Prepare
+- prepare for AT basics
+
+### Rename
+- rename LAT -> AT basics
+
+### Update
+- update VERSION and BUILD files [skip ci]
+
+### Update
+- Update TheSectionCommander
+
+### Merge Requests
+- Merge branch 'patch-3' into 'master'
+
+
+
 <a name="v1.2.7"></a>
 ## [v1.2.7] - 2018-12-30
 ### Punctuation
@@ -30,16 +65,16 @@
 - update VERSION and BUILD files [skip ci]
 
 
-
 <a name="v1.2.0"></a>
 ## [v1.2.0] - 2018-12-30
+
 ### Update
 - update VERSION and BUILD files [skip ci]
 
 
-
 <a name="v1.2.09"></a>
 ## [v1.2.09] - 2018-12-30
+
 ### Fix
 - fix gitlab config
 
@@ -64,16 +99,16 @@
 - update VERSION and BUILD files [skip ci]
 
 
+
 <a name="v1.1.7"></a>
 ## [v1.1.7] - 2018-12-30
-
 ### Update
 - update VERSION and BUILD files [skip ci]
 
 
+
 <a name="v1.1.5"></a>
 ## [v1.1.5] - 2018-12-30
-
 ### Add
 - add new headers for new orbat
 
@@ -376,15 +411,16 @@
 - big revert
 
 
-[Unreleased]: https://gitlab.com/uag/handbook/compare/v1.2.7...master
+[Unreleased]: https://gitlab.com/uag/handbook/compare/v1.2.10...master
+[v1.2.10]: https://gitlab.com/uag/handbook/compare/v1.2.7-b181230134101...v1.2.10
 [v1.2.7]: https://gitlab.com/uag/handbook/compare/v1.2.4-b181230020815...v1.2.7
-[v1.2.4]: https://gitlab.com/uag/handbook/compare/v1.2.0-b181230013247...v1.2.4
-[v1.2.0]: https://gitlab.com/uag/handbook/compare/v1.2.09-b181230013245...v1.2.0
-[v1.2.09]: https://gitlab.com/uag/handbook/compare/v1.1.13...v1.2.09
+[v1.2.4]: https://gitlab.com/uag/handbook/compare/v1.2.0...v1.2.4
+[v1.2.0]: https://gitlab.com/uag/handbook/compare/v1.2.0-b181230013247...v1.2.0
+[v1.2.09]: https://gitlab.com/uag/handbook/compare/v1.2.09-b181230013245...v1.2.09
 [v1.1.13]: https://gitlab.com/uag/handbook/compare/v1.1.13-b181230013046...v1.1.13
-[v1.1.9]: https://gitlab.com/uag/handbook/compare/v1.1.7...v1.1.9
-[v1.1.7]: https://gitlab.com/uag/handbook/compare/v1.1.7-b181230012443...v1.1.7
-[v1.1.5]: https://gitlab.com/uag/handbook/compare/v1.1.5-b181230011952...v1.1.5
+[v1.1.9]: https://gitlab.com/uag/handbook/compare/v1.1.7-b181230012443...v1.1.9
+[v1.1.7]: https://gitlab.com/uag/handbook/compare/v1.1.5-b181230011952...v1.1.7
+[v1.1.5]: https://gitlab.com/uag/handbook/compare/v1.1.2...v1.1.5
 [v1.1.2]: https://gitlab.com/uag/handbook/compare/v1.0.9...v1.1.2
 [v1.0.9]: https://gitlab.com/uag/handbook/compare/v1.0.7...v1.0.9
 [v1.0.7]: https://gitlab.com/uag/handbook/compare/v1.0.4-r5...v1.0.7
