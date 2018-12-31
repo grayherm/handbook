@@ -2,8 +2,34 @@
 ## [Unreleased]
 
 
+<a name="v1.3.0"></a>
+## [v1.3.0] - 2018-12-31
+### Added
+- Added grenade use keybinding to Configuration
+
+### Merge
+- Merge remote-tracking branch 'origin/patch-3'
+
+### Update
+- update VERSION and BUILD files [skip ci]
+
+### Update
+- Update antitank-basics.md
+- Update antitank-basics.md
+- Update antitank-basics.md
+- Update antitank-basics.md
+- Update antitank-basics.md
+- Update unit-organisation.md
+- Update antitank-basics.md
+
+### Merge Requests
+- Merge branch 'patch-7' into 'master'
+- Merge branch 'patch-7' into 'master'
+
+
 <a name="v1.2.10"></a>
 ## [v1.2.10] - 2018-12-30
+
 ### Add
 - add proper header prefix to `autorifleman-basics`'s TL;DR
 - add new pages for AT and radio basics
@@ -411,8 +437,9 @@
 - big revert
 
 
-[Unreleased]: https://gitlab.com/uag/handbook/compare/v1.2.10...master
-[v1.2.10]: https://gitlab.com/uag/handbook/compare/v1.2.7-b181230134101...v1.2.10
+[Unreleased]: https://gitlab.com/uag/handbook/compare/v1.3.0...master
+[v1.3.0]: https://gitlab.com/uag/handbook/compare/v1.2.10...v1.3.0
+[v1.2.10]: https://gitlab.com/uag/handbook/compare/v1.2.10-b181230153400...v1.2.10
 [v1.2.7]: https://gitlab.com/uag/handbook/compare/v1.2.4-b181230020815...v1.2.7
 [v1.2.4]: https://gitlab.com/uag/handbook/compare/v1.2.0...v1.2.4
 [v1.2.0]: https://gitlab.com/uag/handbook/compare/v1.2.0-b181230013247...v1.2.0
