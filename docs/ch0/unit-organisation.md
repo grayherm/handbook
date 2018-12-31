@@ -108,7 +108,7 @@ The main goals of the Section Commander in UAG are as follows:
 
 3. The Section Commander must ensure that the teams are pursuing their objectives and following orders.
 
-### 3a. The Team Leader
+### 3b. The Team Leader
 
 The role of the Team Leader is to streamline communication between the team members and Section Command through a command chain as displayed in the UAG Orbat at the top of this page. Furthermore the Team Lead is there to guide the team members towards the objective as strategically as possible while ensuring their survival.
 
@@ -122,11 +122,11 @@ The main goals of the Team Leader in UAG are as follows:
 
 4. The Team Lead must ensure that all members of the team are enjoying their time and not finding it tedious due to them dying several times in a row. 
 
-### 3b. Radio Communication
+## 4. Radio Communication
 
 The team leader's main tool for communication with both of his team and other team leaders as well as with Section Command is the 152 Radio.
 
-### 3c. How to use the 152 radio
+### 4a. How to use the 152 radio
 
 To use the 152 radio hold down the 'Left Control' button and press 'P'. This will bring up the radio interface. The recommended setup is as follows:
 Say for instance you are in Wolfpack, the radio setup for Wolfpack is 31. Hence the setup should be as follows:
@@ -145,11 +145,11 @@ Due to 'Channel 4' being set as 'Additional Channel 4', you will be able to hear
 
 It is important to know what section and team you are in, in order to prevent confusion and miscommunication.
 
-### 3d. When to use the 152 radio
+### 4b. When to use the 152 radio
 
 The 152 radio is used by the team lead to coordinate the members of the team. It is also used to send information and recieve orders to and from Section Command. Use the 152 radio to call out the status of the team, for instance, if you are under fire you are to call it out to the Section Commander by saying "Contact". A full list of Radio Terminology is found [here].
 
-### 3e. Strategy
+### 4c. Strategy
 
 While pursuing the objective the Team Lead must understand basic formations, such as the Wedge and Column formations. The Team Lead must also understand when and where to use them given a particular situation.
 
@@ -163,7 +163,7 @@ Furthermore while pursuing the objective, the Team Lead must keep several things
 
 4. Buddy Teams - One of the Golden Rules of UAG. When separating someone from the team, ensure that they have another member within your team with them to ensure that they survive any encounter and you recieve comms if one of them goes down.
 
-### 3f. Initiative
+### 4d. Initiative
 
 It is important for the Team Lead to have initiative when pursuing the objective during an OP. Meaning that the Team Lead must have a clear strategy in mind while pursuing the given objective. In most cases you are to always think two steps ahead and having a fallback plan in place should things go awry. Initiative is also key when taking any actions necessary should things go wrong or not as planned.
 
