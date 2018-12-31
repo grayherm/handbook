@@ -5,7 +5,7 @@ RUN apt update && apt install python
 COPY . ./handbook.uagpmc.com
 
 RUN cd handbook.uagpmc.com && \
-      yarn && yarn build
+      yarn && yarn build && cp -r public-inject/ public/
 
 EXPOSE 80/tcp
 
