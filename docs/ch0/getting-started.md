@@ -30,7 +30,7 @@ As a recruit you must attend two operations before we can consider you a full me
 
 Setting up the modpack is easy, but is quite unique from traditional setups. Because of this, we ask that you follow every step in this guide in order to properly download all of the mods and ensure you can jump into sessions without any issues.
 
-### 2a. Installing
+### 3a. Installing
 
 1. Add Cody on [Steam](https://steamcommunity.com/id/codyburton/) to gain access to the private mod.
 
@@ -42,17 +42,17 @@ Setting up the modpack is easy, but is quite unique from traditional setups. Bec
 
 5. Wait for the launcher to download and enable the mods and then you’re all done!
 
-### 2b. Updating
+### 3b. Updating
 
 Updating the modpack is simple! All you need to do is restart your Arma 3 Launcher, unload all mods, then reload the setup mod you downloaded to begin with.
 
-### 2c. Uninstalling
+### 3c. Uninstalling
 
 Unload all the mods, select "More" and then select "Unsubscribe From All Mods". If you can't do so then unsubscribe from all the mods manually.
 
-## 3. Setting up Task Force Arrowhead Radio
+## 4. Setting up Task Force Arrowhead Radio
 
-### 3a. Task Force Arrowhead Radio (TFAR)
+### 4a. Task Force Arrowhead Radio (TFAR)
 
 To install and set up TFAR just download our modpack once downloaded go to `C:\Program Files (x86)\Steam\steamapps\common\Arma 3\!Workshop\@Task Force Arrowhead Radio (BETA!!!)\teamspeak` and double click the task_force_radio Add-on and it should auto install into your TeamSpeak 3 client once done go to `Tools->Options->Addons` of your TS3 client and enable Task Froce ARMA 3 Radio.
 
@@ -61,29 +61,29 @@ To install and set up TFAR just download our modpack once downloaded go to `C:\P
 Installing and setting up ACRE2 is easy when we use ACRE2 it is automatically installed in our modpack and once you launch the game it will automatically set up in your TeamSpeak 3 client just enable it in Tools-> Options-> Addons of your TS3 client.
 -->
 
-## 4. Joining the Server
+## 5. Joining the Server
 
 Before joining the server you are required to do two things:
 
-### 4a. Disable BattlEye
+### 5a. Disable BattlEye
 
 To disable Battleye open your ArmA III launcher, go on BattlEye and untick "Enable BattlEye anti-cheat software"
 
-### 4b. Change your Profile name
+### 5b. Change your Profile name
 
 You are required to change your ingame profile name to the shortened name assigned to you when you joined the unit. If you are unable to change the profile name, please create a new one with the name assigned. This simply used for identification purposes.
 
-## 5. Configuration
+## 6. Configuration
 
-### 5a. Enhanced Movement
+### 6a. Enhanced Movement
 
 In order to use the Enhanced Movement mod i.e climbing over walls or strategically using people as stools, you are required to assign a key of your choice to it. In order to do this go into the 'Options' menu, 'Controls' and then find 'Custom Controls' in the dropdown menu. Find "Use Action 1" and add your preferred key. The recommended key is the backslash '\' button.
 
-### 5b. Grenade Use
+### 6b. Grenade Use
 
 It is recommended to set the keybinding for grenades (when throwing them) to "double-tapping" the 'g' key.
 
-## 6. Default Mod Keybindings
+## 7. Default Mod Keybindings
 
 To open your Android press 'H'.
 
