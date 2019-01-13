@@ -1,4 +1,4 @@
-# Section 4: Anti-Tank Basics
+# Anti-Tank Basics
 
 ## 1. Introduction
 
@@ -17,7 +17,7 @@ HEDP does the same but has a fragmentation head on it which allows you to use it
 MAT is the chad version of LAT because it has big rounds, longer ranges, you can reload it and most important of all it has cool names like the carl gustav. As I said earlier you can reload these bois making it so you don't have to stick to one ammo type the carl gustav can take HEAT and HE for example.
 The RPG-7 has more rounds it has 4 that are somewhat important these are the PG-7VL a single-stage HEAT round, the PG-7VR a tandem charge HEAT round (tandem charge means it has 2 or more charges allowing you to cut through multiple layers of armor in this case it's 2 charges), the OG-7V is a fragmentation round for use against infantry, the TBG-7V is a thermobaric round which means it uses the oxygen in the air to generate a fuck ton of heat killing any capatalist pig and his friends in a 10 meter radius.
 
-## 4. Heavy Anti-Tank 
+## 4. Heavy Anti-Tank
 
 HAT is the biggest of boys with big rounds and long ranges of up bassicly how far you can lock your launcher from. They destroy anything. We'll go more in debt in the Anti-Tank Advanced chapter.
 

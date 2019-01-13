@@ -1,4 +1,4 @@
-# Section 2: Reserves System
+# Reserves System
 
 ## 1. Abstract
 

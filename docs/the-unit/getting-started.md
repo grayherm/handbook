@@ -1,4 +1,4 @@
-# Section 1: Getting Started
+# Getting Started
 
 ## 1. Recruitment
 

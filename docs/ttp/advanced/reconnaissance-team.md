@@ -1,4 +1,4 @@
-# Section 1: Reconnaissance Team
+# Reconnaissance Team
 
 ## 1. What is Recon?
 

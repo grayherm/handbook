@@ -1,4 +1,4 @@
-# Section 2: UAV Operator
+# UAV Operator
 
 ## 1. What do, you do as a UAV Operator
 

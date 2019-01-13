@@ -1,4 +1,4 @@
-# Section 2: Medical Procedures
+# Medical Procedures
 
 ## 1. Introduction
 

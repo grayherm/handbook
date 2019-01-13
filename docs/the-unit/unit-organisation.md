@@ -1,4 +1,4 @@
-# Section 3: Unit Organisation
+# Unit Organisation
 
 ## 1. Order of Battle (ORBAT)
 
@@ -120,7 +120,7 @@ The main goals of the Team Leader in UAG are as follows:
 
 3. The Team Lead must ensure that the team assigned is doing its objective/s as effectively and diligently as possible.
 
-4. The Team Lead must ensure that all members of the team are enjoying their time and not finding it tedious due to them dying several times in a row. 
+4. The Team Lead must ensure that all members of the team are enjoying their time and not finding it tedious due to them dying several times in a row.
 
 ## 4. Radio Communication
 

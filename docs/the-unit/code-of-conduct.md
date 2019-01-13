@@ -1,4 +1,4 @@
-# Section 0: Code of Conduct
+# Code of Conduct
 
 The most important thing you must know and agree to in order to be in UAG is our **Code of Conduct**. The rules in this document must be followed by all members of UAG in order to maintain a fun and non-hostile environment for everyone. Failure to follow any of these rules may result in a discussion between all other members regarding the incident, and after a vote is tallied, could potentially end with the termination of a membership with the group.
 

@@ -1,3 +1,5 @@
+const fs = require("fs");
+
 module.exports = {
   title: "UAG Handbook",
   description: "A handy tome for the scholarly contractor",
@@ -15,39 +17,45 @@ module.exports = {
   serviceWorker: true,
   themeConfig: {
     sidebar: {
-      "/ch0/": [
-        "",
-        "code-of-conduct",
-        "getting-started",
-        "reserves-system",
-        "unit-organisation"
+      "/the-unit/" : [
+        getSidebar("the-unit","The Unit", [
+          "code-of-conduct", "getting-started", "unit-organisation"
+        ])
       ],
-      "/ch1/": ["", "radio-communication-basics", "medical-procedures", "autorifleman-basics", "antitank-basics"],
-      "/ch2/": ["", "reconnaissance-team", "uav-operator"]
+      "/ttp/" : [
+        getSidebar("ttp/basic","Basic"),
+        getSidebar("ttp/advanced","Advanced"),
+        getSidebar("ttp/leadership","Leadership")
+      ],
     },
-    sidebarDepth: 4,
+    sidebarDepth: 2,
     displayAllHeaders: false,
-    activeHeaderLinks: false,
+    activeHeaderLinks: true,
     lastUpdated: true,
     nav: [
       {
-        text: "Chapters",
+        text: "Learn More",
         items: [
           {
-            text: "Chapter 0: An Introduction",
-            link: "/ch0/"
+            text: "TTP Guide",
+            link: "/ttp/"
+          }
+        ]
+      },
+      {
+        text: "Important Links",
+        items: [
+          {
+            text: "Code of Conduct",
+            link: "/the-unit/code-of-conduct"
           },
           {
-            text: "Chapter 1: The Basics",
-            link: "/ch1/"
+            text: "Getting Started",
+            link: "/the-unit/getting-started"
           },
           {
-            text: "Chapter 2: Advanced Techniques",
-            link: "/ch2/"
-          },
-          {
-            text: "Chapter 3: Leadership",
-            link: "/ch3/"
+            text: "Medical Procedures",
+            link: "/ttp/basic/medical-procedures"
           }
         ]
       }
@@ -73,3 +81,41 @@ module.exports = {
   },
   plugins: ["flowchart"]
 };
+
+function getSidebar(directory, title, order) {
+  let _fileScan = fs.readdirSync("/home/zeue/git/uag/handbook/docs/" + directory);
+
+  if (order) {
+    order.reverse();
+    for (let i = 0; i < order.length; i++) {
+      _fileScan
+        .unshift(order[i] + ".md");
+
+      //create temporary var to swap indexes 0 and 1, why isn't there just a swap() method?
+      let temp = _fileScan[1];
+      _fileScan[1] = _fileScan[0];
+      _fileScan[0] = temp;
+    }
+    //fancy new ES6 thing, map all elements of _fileScan to a new "set" which is an array without duplicates!
+    _fileScan = [... new Set(_fileScan)];
+  }
+
+  let _children = _fileScan.map(
+      function (_x) {
+        let returned = directory + "/" + _x.replace(".md","");
+
+        if (returned.includes("README")) {
+          returned = returned.replace("README","")
+        }
+
+        return "/" + returned;
+      }
+    );
+  let _sidebarConfig = {
+    title: title,
+    collapsable: true,
+    children: _children
+  }
+  console.log(_sidebarConfig);
+  return _sidebarConfig;
+}
