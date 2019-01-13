@@ -2,6 +2,19 @@
 ## [Unreleased]
 
 
+<a name="v1.5.2"></a>
+## [v1.5.2] - 2019-01-13
+### I
+- I don't like this
+
+### Readd
+- readd index/howto page
+
+### Update
+- update VERSION and BUILD files [skip ci]
+
+
+
 <a name="v1.5.1"></a>
 ## [v1.5.1] - 2019-01-13
 ### Update
@@ -21,9 +34,9 @@
 - update VERSION and BUILD files [skip ci]
 
 
-
 <a name="v1.4.2"></a>
 ## [v1.4.2] - 2019-01-08
+
 ### Fix
 - fix numbering of headers in getting-started.md
 
@@ -31,9 +44,9 @@
 - update VERSION and BUILD files [skip ci]
 
 
+
 <a name="v1.4.1"></a>
 ## [v1.4.1] - 2018-12-31
-
 ### I
 - I swear I know how to use bash, promise
 
@@ -41,9 +54,9 @@
 - update VERSION and BUILD files [skip ci]
 
 
-
 <a name="v1.4.0"></a>
 ## [v1.4.0] - 2018-12-31
+
 ### Badges
 - badges update test!
 
@@ -151,9 +164,9 @@
 - update VERSION and BUILD files [skip ci]
 
 
-
 <a name="v1.2.0"></a>
 ## [v1.2.0] - 2018-12-30
+
 ### Update
 - update VERSION and BUILD files [skip ci]
 
@@ -178,16 +191,16 @@
 - update VERSION and BUILD files [skip ci]
 
 
+
 <a name="v1.1.9"></a>
 ## [v1.1.9] - 2018-12-30
-
 ### Update
 - update VERSION and BUILD files [skip ci]
 
 
-
 <a name="v1.1.7"></a>
 ## [v1.1.7] - 2018-12-30
+
 ### Update
 - update VERSION and BUILD files [skip ci]
 
@@ -497,22 +510,23 @@
 - big revert
 
 
-[Unreleased]: https://gitlab.com/uag/handbook/compare/v1.5.1...master
+[Unreleased]: https://gitlab.com/uag/handbook/compare/v1.5.2...master
+[v1.5.2]: https://gitlab.com/uag/handbook/compare/v1.5.1-b190113121144...v1.5.2
 [v1.5.1]: https://gitlab.com/uag/handbook/compare/v1.5.0-b190113120642...v1.5.1
-[v1.5.0]: https://gitlab.com/uag/handbook/compare/v1.4.2-b190108155334...v1.5.0
-[v1.4.2]: https://gitlab.com/uag/handbook/compare/v1.4.1...v1.4.2
-[v1.4.1]: https://gitlab.com/uag/handbook/compare/v1.4.1-b181231162114...v1.4.1
-[v1.4.0]: https://gitlab.com/uag/handbook/compare/v1.3.2-b181231154257...v1.4.0
+[v1.5.0]: https://gitlab.com/uag/handbook/compare/v1.4.2...v1.5.0
+[v1.4.2]: https://gitlab.com/uag/handbook/compare/v1.4.2-b190108155334...v1.4.2
+[v1.4.1]: https://gitlab.com/uag/handbook/compare/v1.4.0...v1.4.1
+[v1.4.0]: https://gitlab.com/uag/handbook/compare/v1.4.0-b181231161246...v1.4.0
 [v1.3.2]: https://gitlab.com/uag/handbook/compare/v1.3.0-b181231123033...v1.3.2
 [v1.3.0]: https://gitlab.com/uag/handbook/compare/v1.2.10-b181230153400...v1.3.0
 [v1.2.10]: https://gitlab.com/uag/handbook/compare/v1.2.7-b181230134101...v1.2.10
 [v1.2.7]: https://gitlab.com/uag/handbook/compare/v1.2.4-b181230020815...v1.2.7
-[v1.2.4]: https://gitlab.com/uag/handbook/compare/v1.2.0-b181230013247...v1.2.4
-[v1.2.0]: https://gitlab.com/uag/handbook/compare/v1.2.09...v1.2.0
+[v1.2.4]: https://gitlab.com/uag/handbook/compare/v1.2.0...v1.2.4
+[v1.2.0]: https://gitlab.com/uag/handbook/compare/v1.2.0-b181230013247...v1.2.0
 [v1.2.09]: https://gitlab.com/uag/handbook/compare/v1.2.09-b181230013245...v1.2.09
-[v1.1.13]: https://gitlab.com/uag/handbook/compare/v1.1.9...v1.1.13
-[v1.1.9]: https://gitlab.com/uag/handbook/compare/v1.1.9-b181230012855...v1.1.9
-[v1.1.7]: https://gitlab.com/uag/handbook/compare/v1.1.5-b181230011952...v1.1.7
+[v1.1.13]: https://gitlab.com/uag/handbook/compare/v1.1.9-b181230012855...v1.1.13
+[v1.1.9]: https://gitlab.com/uag/handbook/compare/v1.1.7...v1.1.9
+[v1.1.7]: https://gitlab.com/uag/handbook/compare/v1.1.7-b181230012443...v1.1.7
 [v1.1.5]: https://gitlab.com/uag/handbook/compare/v1.1.2...v1.1.5
 [v1.1.2]: https://gitlab.com/uag/handbook/compare/v1.0.9...v1.1.2
 [v1.0.9]: https://gitlab.com/uag/handbook/compare/v1.0.7...v1.0.9
