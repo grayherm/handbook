@@ -34,15 +34,6 @@ module.exports = {
     lastUpdated: true,
     nav: [
       {
-        text: "Learn More",
-        items: [
-          {
-            text: "TTP Guide",
-            link: "/ttp/"
-          }
-        ]
-      },
-      {
         text: "Important Links",
         items: [
           {

@@ -1,4 +1,4 @@
-# Handbook Index
+# Handbook Start
 
 Welcome to the official UAG handbook! Here you will find everything UAG-related that we could be bothered to write down.
 
