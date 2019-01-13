@@ -83,7 +83,7 @@ module.exports = {
 };
 
 function getSidebar(directory, title, order) {
-  let _fileScan = fs.readdirSync("/home/zeue/git/uag/handbook/docs/" + directory);
+  let _fileScan = fs.readdirSync(__dirname + "/../" + directory);
 
   if (order) {
     order.reverse();
@@ -116,6 +116,5 @@ function getSidebar(directory, title, order) {
     collapsable: true,
     children: _children
   }
-  console.log(_sidebarConfig);
   return _sidebarConfig;
 }
