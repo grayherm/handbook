@@ -23,7 +23,9 @@ module.exports = {
         ])
       ],
       "/ttp/" : [
-        getSidebar("ttp/basic","Basic"),
+        getSidebar("ttp/basic","Basic", [
+          "infantry-basics"
+        ]),
         getSidebar("ttp/advanced","Advanced"),
         getSidebar("ttp/leadership","Leadership")
       ],
