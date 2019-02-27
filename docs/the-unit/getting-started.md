@@ -8,7 +8,7 @@ Join the [Discord](https://uagpmc.com/discord) and ask for a recruiter or messag
 
 ### 2a. When are our operations?
 
-Our operation times are Saturday and Sunday 17:30 UTC check on the bottom of our [website](https://uagpmc.com/) for a timer till our next operation.
+Our operation times are **Saturday and Sunday at 18:00 UTC** check on the bottom of our [website](https://uagpmc.com/) for a timer till our next operation.
 
 ### 2b. Can't Attend a Session?
 
