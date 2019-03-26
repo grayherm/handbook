@@ -54,14 +54,14 @@ BUILD=$(date +%y%m%d%H%M%S)
 rm -f VERSION
 echo $tagName >> VERSION
 truncate -s $(($(stat -c '%s' VERSION)-1)) VERSION
-cp VERSION ./src/app/VERSION
-git add VERSION ./src/app/VERSION
+cp VERSION ./VERSION
+git add VERSION ./VERSION
 
 rm -f BUILD
 echo $BUILD >> BUILD
 truncate -s $(($(stat -c '%s' BUILD)-1)) BUILD
-cp BUILD ./src/app/BUILD
-git add BUILD ./src/app/BUILD
+cp BUILD ./BUILD
+git add BUILD ./BUILD
 
 git commit -m "update VERSION and BUILD files [skip ci]"
 git tag "$tagName-pre"
@@ -71,8 +71,8 @@ sed -i -e 's/...HEAD/...master/g' CHANGELOG.md
 sed -i -e 's/-pre(?!))//g' CHANGELOG.md
 sed -i -E '/\".+-b[[:digit:]]{8,}\"/d' CHANGELOG.md
 sed -i -E '/\[.+-b[[:digit:]]{8,}\]/d' CHANGELOG.md
-cp CHANGELOG.md ./src/app/CHANGELOG.md
-git add CHANGELOG.md ./src/app/CHANGELOG.md
+cp CHANGELOG.md ./CHANGELOG.md
+git add CHANGELOG.md ./CHANGELOG.md
 
 git commit -m "$tagName-b$BUILD: automated release"
 git tag "$tagName-b$BUILD"
