@@ -2,6 +2,13 @@
 ## [Unreleased]
 
 
+<a name="v1.6.2-pre"></a>
+## [v1.6.2-pre] - 2019-03-26
+### Update
+- update VERSION and BUILD files [skip ci]
+
+
+
 <a name="v1.6.1-pre"></a>
 ## [v1.6.1-pre] - 2019-03-26
 ### Update
@@ -57,9 +64,9 @@
 - use __dirname instead of hard directory, remove debug logs
 
 
-
 <a name="v1.5.0-pre"></a>
 ## [v1.5.0-pre] - 2019-01-13
+
 ### Big
 - big update: sidebar is now dynamic!
 
@@ -107,9 +114,9 @@
 - update VERSION and BUILD files [skip ci]
 
 
-
 <a name="v1.3.0-pre"></a>
 ## [v1.3.0-pre] - 2018-12-31
+
 ### Added
 - Added grenade use keybinding to Configuration
 
@@ -133,9 +140,9 @@
 - Merge branch 'patch-7' into 'master'
 
 
-
 <a name="v1.2.10-pre"></a>
 ## [v1.2.10-pre] - 2018-12-30
+
 ### Add
 - add proper header prefix to `autorifleman-basics`'s TL;DR
 - add new pages for AT and radio basics
@@ -168,9 +175,9 @@
 - Merge branch 'patch-3' into 'master'
 
 
-
 <a name="v1.2.7-pre"></a>
 ## [v1.2.7-pre] - 2018-12-30
+
 ### Punctuation
 - Punctuation updates.
 
@@ -184,9 +191,9 @@
 - Merge branch 'patch-1' into 'master'
 
 
+
 <a name="v1.2.4-pre"></a>
 ## [v1.2.4-pre] - 2018-12-30
-
 ### Merge
 - Merge branch 'radraegon/handbook-patch-1'
 
@@ -231,9 +238,9 @@
 - update VERSION and BUILD files [skip ci]
 
 
+
 <a name="v1.1.7-pre"></a>
 ## [v1.1.7-pre] - 2018-12-30
-
 ### Update
 - update VERSION and BUILD files [skip ci]
 
@@ -543,26 +550,27 @@
 - big revert
 
 
-[Unreleased]: https://gitlab.com/uag/handbook/compare/v1.6.1-pre...master
+[Unreleased]: https://gitlab.com/uag/handbook/compare/v1.6.2-pre...master
+[v1.6.2-pre]: https://gitlab.com/uag/handbook/compare/v1.6.1-b190326100358...v1.6.2-pre
 [v1.6.1-pre]: https://gitlab.com/uag/handbook/compare/v1.6.0-b190326100244...v1.6.1-pre
 [v1.6.0-pre]: https://gitlab.com/uag/handbook/compare/v1.5.3-r2...v1.6.0-pre
 [v1.5.3-r2]: https://gitlab.com/uag/handbook/compare/v1.5.2-b190113150806...v1.5.3-r2
 [v1.5.2-pre]: https://gitlab.com/uag/handbook/compare/v1.5.1-b190113121144...v1.5.2-pre
-[v1.5.1-pre]: https://gitlab.com/uag/handbook/compare/v1.5.0-b190113120642...v1.5.1-pre
-[v1.5.0-pre]: https://gitlab.com/uag/handbook/compare/v1.4.2-b190108155334...v1.5.0-pre
+[v1.5.1-pre]: https://gitlab.com/uag/handbook/compare/v1.5.0-pre...v1.5.1-pre
+[v1.5.0-pre]: https://gitlab.com/uag/handbook/compare/v1.5.0-b190113120642...v1.5.0-pre
 [v1.4.2-pre]: https://gitlab.com/uag/handbook/compare/v1.4.1-b181231162114...v1.4.2-pre
 [v1.4.1-pre]: https://gitlab.com/uag/handbook/compare/v1.4.0-b181231161246...v1.4.1-pre
 [v1.4.0-pre]: https://gitlab.com/uag/handbook/compare/v1.3.2-b181231154257...v1.4.0-pre
-[v1.3.2-pre]: https://gitlab.com/uag/handbook/compare/v1.3.0-b181231123033...v1.3.2-pre
-[v1.3.0-pre]: https://gitlab.com/uag/handbook/compare/v1.2.10-b181230153400...v1.3.0-pre
-[v1.2.10-pre]: https://gitlab.com/uag/handbook/compare/v1.2.7-b181230134101...v1.2.10-pre
-[v1.2.7-pre]: https://gitlab.com/uag/handbook/compare/v1.2.4-pre...v1.2.7-pre
-[v1.2.4-pre]: https://gitlab.com/uag/handbook/compare/v1.2.4-b181230020815...v1.2.4-pre
+[v1.3.2-pre]: https://gitlab.com/uag/handbook/compare/v1.3.0-pre...v1.3.2-pre
+[v1.3.0-pre]: https://gitlab.com/uag/handbook/compare/v1.3.0-b181231123033...v1.3.0-pre
+[v1.2.10-pre]: https://gitlab.com/uag/handbook/compare/v1.2.10-b181230153400...v1.2.10-pre
+[v1.2.7-pre]: https://gitlab.com/uag/handbook/compare/v1.2.7-b181230134101...v1.2.7-pre
+[v1.2.4-pre]: https://gitlab.com/uag/handbook/compare/v1.2.0-pre...v1.2.4-pre
 [v1.2.0-pre]: https://gitlab.com/uag/handbook/compare/v1.2.0-b181230013247...v1.2.0-pre
 [v1.2.09-pre]: https://gitlab.com/uag/handbook/compare/v1.2.09-b181230013245...v1.2.09-pre
 [v1.1.13-pre]: https://gitlab.com/uag/handbook/compare/v1.1.13-b181230013046...v1.1.13-pre
 [v1.1.9-pre]: https://gitlab.com/uag/handbook/compare/v1.1.9-b181230012855...v1.1.9-pre
-[v1.1.7-pre]: https://gitlab.com/uag/handbook/compare/v1.1.7-b181230012443...v1.1.7-pre
+[v1.1.7-pre]: https://gitlab.com/uag/handbook/compare/v1.1.5-b181230011952...v1.1.7-pre
 [v1.1.5-pre]: https://gitlab.com/uag/handbook/compare/v1.1.2...v1.1.5-pre
 [v1.1.2]: https://gitlab.com/uag/handbook/compare/v1.0.9...v1.1.2
 [v1.0.9]: https://gitlab.com/uag/handbook/compare/v1.0.7...v1.0.9
