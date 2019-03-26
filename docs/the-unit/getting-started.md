@@ -24,7 +24,7 @@ As a Recruit you are just a temporary member within UAG and your role is dynamic
 
 ### 2f. Recruitment Process
 
-As a recruit you must attend two operations before we can consider you a full member. We use internal voting to decide whether or not we extend your recruitment, kick you out, or allow you to join based off of your attitude towards other players.
+As a recruit you must attend four operations before we can consider you a full member. We use internal voting to decide whether or not we extend your recruitment, kick you out, or allow you to join based off of your attitude towards other players.
 
 ## 3. Modpack Setup
 
