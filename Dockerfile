@@ -1,6 +1,6 @@
-FROM node:8.12.0-jessie
+FROM node:10-alpine
 
-RUN apt update && apt install python
+RUN apk update && apk add python git
 
 COPY . ./handbook.uagpmc.com
 
