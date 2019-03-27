@@ -28,3 +28,7 @@ In order to maintain the sanity of all that shitpost in the UAG Discord, we have
 The banned memes, and all other sub-meme variants of said memes, are as follows:
 
 - "They did surgery on a grape"
+
+## 5. Don't Listen to Collin
+
+Seriously, he's fucking retarded. Why do you guys keep listening to him like he even has a right to an opinion?
