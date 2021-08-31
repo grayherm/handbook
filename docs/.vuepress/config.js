@@ -122,10 +122,10 @@ module.exports = {
     docsDir: "docs",
     editLinks: true,
     editLinkText: "Help us improve this page!",
-    algolia: {
-      apiKey: "ad618428dcffec7d35c9f77b544b1d9a",
-      indexName: "uagpmc",
-    },
+    // algolia: {
+    //   apiKey: "ad618428dcffec7d35c9f77b544b1d9a",
+    //   indexName: "uagpmc",
+    // },
     searchPlaceholder: "Search...",
   },
   markdown: {
@@ -159,7 +159,7 @@ function getSidebar(directory, title, order) {
     _fileScan = [...new Set(_fileScan)];
   }
 
-  let _children = _fileScan.map(function (_x) {
+  let _children = _fileScan.map(function(_x) {
     let returned = directory + "/" + _x.replace(".md", "");
 
     if (returned.includes("README")) {
