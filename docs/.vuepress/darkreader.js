@@ -2,15 +2,15 @@ module.exports = () => {
   return {
     enhanceAppFiles() {
       return {
-         name: 'darkreader',
-         content: `export default () => {
+        name: "darkreader",
+        content: `export default () => {
            window.addEventListener('load', function () {
              var DarkReader = require("darkreader");
              var Cookies = require("js-cookie");
 
              var darkModeOptions = {
-                 brightness: 150,
-                 contrast: 80,
+                 brightness: 100,
+                 contrast: 100,
                  sepia: 0,
              };
 
@@ -40,8 +40,8 @@ module.exports = () => {
 
              document.body.getElementsByClassName('nav-links')[0].appendChild(toggler);
            })
-         }`
-       }
-    }
-  }
-}
+         }`,
+      };
+    },
+  };
+};
