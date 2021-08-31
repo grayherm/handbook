@@ -3,16 +3,16 @@ const fs = require("fs");
 module.exports = {
   title: "UAG Handbook",
   description: "A handy tome for the scholarly contractor",
-  base: "/handbook/",
+  base: "/",
   dest: "public",
   head: [
     [
       "link",
       {
         rel: "icon",
-        href: "/uagLogo.png"
-      }
-    ]
+        href: "/uagLogo.png",
+      },
+    ],
   ],
   serviceWorker: true,
   themeConfig: {
@@ -21,14 +21,14 @@ module.exports = {
         getSidebar("fundamentals", "0: Fundamentals", [
           "unit-introduction",
           "code-of-conduct",
-          "first-time-setup"
+          "first-time-setup",
         ]),
         getSidebar("infantryman-basics", "1: Infantryman Basics", [
           "the-section",
           "making-a-loadout",
           "movement-techniques",
           //   "situational-awareness",
-          "orienteering"
+          "orienteering",
           //   "basic-marksmanship",
           //   "grenades",
           //   "basic-medical-procedures",
@@ -85,8 +85,8 @@ module.exports = {
         //   "common-leadership-problems",
         // ]),
         // getSidebar("staff","6: Staff"),
-        getSidebar("resources", "Resources", ["orbats"])
-      ]
+        getSidebar("resources", "Resources", ["orbats"]),
+      ],
     },
     sidebarDepth: 0,
     displayAllHeaders: false,
@@ -98,24 +98,24 @@ module.exports = {
         items: [
           {
             text: "Code of Conduct",
-            link: "/fundamentals/code-of-conduct"
+            link: "/fundamentals/code-of-conduct",
           },
           {
             text: "First Time Setup",
-            link: "/fundamentals/first-time-setup"
+            link: "/fundamentals/first-time-setup",
           },
           {
             text: "ORBATs",
-            link: "/resources/orbats"
-          }
-        ]
-      }
+            link: "/resources/orbats",
+          },
+        ],
+      },
     ],
     serviceWorker: {
       updatePopup: {
         message: "This page just got updated!",
-        buttonText: "Refresh?"
-      }
+        buttonText: "Refresh?",
+      },
     },
     repo: "https://gitlab.com/zeue-oss/unnamed.group/www/tree/master/vuepress",
     repoLabel: "Contribute!",
@@ -124,22 +124,22 @@ module.exports = {
     editLinkText: "Help us improve this page!",
     algolia: {
       apiKey: "ad618428dcffec7d35c9f77b544b1d9a",
-      indexName: "uagpmc"
+      indexName: "uagpmc",
     },
-    searchPlaceholder: "Search..."
+    searchPlaceholder: "Search...",
   },
   markdown: {
     toc: { includeLevel: [1, 2] },
     lineNumbers: true,
-    extendMarkdown: md => {
+    extendMarkdown: (md) => {
       md.use(require("markdown-it-task-lists"), { enabled: true });
-    }
+    },
   },
   plugins: [
     "@vuepress/nprogress",
     "@vuepress/back-to-top",
-    require("./darkreader.js")
-  ]
+    require("./darkreader.js"),
+  ],
 };
 
 function getSidebar(directory, title, order) {
@@ -159,7 +159,7 @@ function getSidebar(directory, title, order) {
     _fileScan = [...new Set(_fileScan)];
   }
 
-  let _children = _fileScan.map(function(_x) {
+  let _children = _fileScan.map(function (_x) {
     let returned = directory + "/" + _x.replace(".md", "");
 
     if (returned.includes("README")) {
@@ -171,7 +171,7 @@ function getSidebar(directory, title, order) {
   let _sidebarConfig = {
     title: title,
     collapsable: true,
-    children: _children
+    children: _children,
   };
   return _sidebarConfig;
 }
