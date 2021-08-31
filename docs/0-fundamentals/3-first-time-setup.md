@@ -4,7 +4,7 @@
 
 ## The Modpack
 
-Setting up the modpack is easy, but is quite unique from traditional setups. Because of this, we ask that you follow every step in this guide in order to properly download all of the mods and ensure you can jump into sessions without any issues.
+Setting up the modpack is easy, but is quite unique from traditional setups. Therefore, we ask that you follow every step in this guide in order to properly download all of the mods and ensure you can jump into sessions without any issues.
 
 We ask you to **please make sure to read all the points before you begin installation.**
 
