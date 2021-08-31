@@ -12,7 +12,7 @@ We ask you to **please make sure to read all the points before you begin install
 
 Oh shit, a video!
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nnrirD1ulZY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dBmGwxD_oQ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1. **Subscribe to the Primary Session Branch** on the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1092924095), this essentially keeps track of all other required mod items and allows for quick install and update. _You don't need to subscribe all the other mods! Just keep reading..._
 

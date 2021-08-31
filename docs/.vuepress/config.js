@@ -18,26 +18,27 @@ module.exports = {
   themeConfig: {
     sidebar: {
       "/": [
-        getSidebar("fundamentals", "0: Fundamentals", [
-          "unit-introduction",
-          "code-of-conduct",
-          "first-time-setup",
+        getSidebar("0-fundamentals", "0: Fundamentals", [
+          "0-using-this-handbook",
+          "1-about-the-unit",
+          "2-code-of-conduct",
+          "3-first-time-setup",
         ]),
-        getSidebar("infantryman-basics", "1: Infantryman Basics", [
-          "the-section",
-          "making-a-loadout",
-          "movement-techniques",
-          //   "situational-awareness",
-          "orienteering",
-          //   "basic-marksmanship",
-          //   "grenades",
-          //   "basic-medical-procedures",
-          //   "communication",
-          //   "basic-driving-skills",
-          //   "military-operations-in-urban-terrain",
-          //   "individual-initiative",
-          //   "fighting-at-night",
-        ]),
+        // getSidebar("infantryman-basics", "1: Infantryman Basics", [
+        //   "the-section",
+        //   "making-a-loadout",
+        //   "movement-techniques",
+        //   "situational-awareness",
+        // "orienteering",
+        //   "basic-marksmanship",
+        //   "grenades",
+        //   "basic-medical-procedures",
+        //   "communication",
+        //   "basic-driving-skills",
+        //   "military-operations-in-urban-terrain",
+        //   "individual-initiative",
+        //   "fighting-at-night",
+        // ]),
         // getSidebar("infantryman-specialisations","2: Infantryman Specialisations", [
         //   "bitch boy",
         //   "pointman",
@@ -88,7 +89,7 @@ module.exports = {
         getSidebar("resources", "Resources", ["orbats"]),
       ],
     },
-    sidebarDepth: 0,
+    sidebarDepth: 2,
     displayAllHeaders: false,
     activeHeaderLinks: true,
     lastUpdated: true,
@@ -98,11 +99,11 @@ module.exports = {
         items: [
           {
             text: "Code of Conduct",
-            link: "/fundamentals/code-of-conduct",
+            link: "/0-fundamentals/2-code-of-conduct",
           },
           {
             text: "First Time Setup",
-            link: "/fundamentals/first-time-setup",
+            link: "/0-fundamentals/3-first-time-setup",
           },
           {
             text: "ORBATs",
