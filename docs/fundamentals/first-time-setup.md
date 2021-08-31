@@ -14,15 +14,13 @@ Oh shit, a video!
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nnrirD1ulZY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-1. **Add Cody** on [Steam](https://steamcommunity.com/id/codyburton/) to gain access to the private mod. If you click the link make sure to **login to Steam** through the browser.
+1. **Subscribe to the Primary Session Branch** on the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1092924095), this essentially keeps track of all other required mod items and allows for quick install and update. _You don't need to subscribe all the other mods! Just keep reading..._
 
-2. **Once Cody accepts your Friend Request** subscribe to our setup mod called the **Primary Session Branch** on the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1092924095), this essentially keeps track of all other required mod items and allows for quick install and update.
+2. Open up the ArmA III launcher and select the **Mods** tab and select **Unload All** in the top-right if you have any mods already enabled.
 
-3. Open up the ArmA III launcher and select the **Mods** tab and select **Unload All** in the top-right if you have any mods already enabled.
+3. Under **Available Mods** enable the **Primary Session Branch** mod and then select the **Load Selected Mods** option to subscribe to and load our entire modpack.
 
-4. Under **Available Mods** enable the **Primary Session Branch** mod and then select the **Load Selected Mods** option to subscribe to and load our entire modpack.
-
-5. Wait for the launcher to download and enable the mods and then you’re all done!
+4. Wait for the launcher to download and enable the mods and then you’re all done! _Make sure to check the "magic number" in the Discord's schedule channel to ensure you have all the mods installed._
 
 ### Updating
 
@@ -48,7 +46,7 @@ You are required to change your in-game profile name to the shortened name assig
 
 It is recommended to set the keybinding for grenades (when throwing them) to "double-tapping" the 'g' key.
 
-#### Enhanced Movement
+<!-- #### Enhanced Movement
 
 In order to use the Enhanced Movement mod (climbing over walls or strategically using people as stools) you are required to assign a key of your choice to it. In order to do this go into the 'Options' menu, 'Controls' and then find 'Custom Controls' in the dropdown menu. Find "Use Action 1" and add your preferred key. The recommended key is the backslash '\' button.
 
@@ -58,4 +56,4 @@ When in combat, you may find it better to quickly drop your backpack, so you nee
 
 #### Quick Release Buckle
 
-You can knockout players and AI with your weapon! To do this, look for the "Buttstroke" control under `Controls -> Addons -> TacSalmon Buttstroke`. We recommend using **CTRL+F**.
+You can knockout players and AI with your weapon! To do this, look for the "Buttstroke" control under `Controls -> Addons -> TacSalmon Buttstroke`. We recommend using **CTRL+F**. -->

@@ -10,7 +10,7 @@ module.exports = () => {
 
              var darkModeOptions = {
                  brightness: 100,
-                 contrast: 100,
+                 contrast: 120,
                  sepia: 0,
              };
 
