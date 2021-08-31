@@ -18,38 +18,10 @@ If you need any further information regarding this rule, please contact Cody on 
 
 We use Discord outside of sessions to coordinate and communicate with everyone much easier than the Steam or TeamSpeak-only alternatives. By using Discord, you already agree to following the [guidelines](https://discordapp.com/guidelines), so as a unit hosted primarily on Discord we expect everyone to follow these guidelines by default.
 
-## 4. Third-Party Advertisement
+## 3. Third-Party Advertisement
 
 "Third-party" refers specifically to other units or communities that you are personally involved with. Referential language when talking about other communities is tolerated for obvious reasons, but any discussions about other groups is frowned upon in official UAG communication channels.
 
-### 4a. Member "Poaching"
+### 3a. Member "Poaching"
 
 This is obviously strictly prohibited under any circumstances unless authorized by Cody himself, and will usually end in a ban of some sort for those involved.
-
-## 3. Regarding Streamers
-
-### 3a. Streaming Rules
-
-This list of rules applies to anyone who wishes to stream our Arma 3 content or use our communication channels (such as Discord or TeamSpeak) whilst streaming.
-
-In order to stream with/for us, you agree to:
-
-1. Take action to notify those who are playing with you or are in your voice channel that they are on stream.
-2. Avoid streaming any disciplinary actions that may be enacted during gameplay.
-3. Never share personal information of those in the unit, or stream their face without permission.
-4. Only use official UAG media, such as logos, screenshots, videos, or other streams, with express permission by Cody or an officer.
-
-### 3b. Streamer-Friendly Environments
-
-There are some areas of our communications channels where streamers may be using platforms (such as Twitch) that do not allow some words to be said. These areas are to be respected at all times and any violation or failure to respect this rule may end with immediate membership termination.
-
-#### 3b1. List of Stream-Safe Areas
-
-- Any channel in the Discord under the "Streamer Area" channel category
-- The entire TeamSpeak server (this includes in-game TFAR/ACRE channels!)
-
-## 69. Don't Listen to Collin
-
-Seriously, he's fucking retarded. Why do you guys keep listening to him like he even has a right to an opinion?
-
-## 1337. Sammy is not cool.
