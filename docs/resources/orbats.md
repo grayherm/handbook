@@ -6,7 +6,7 @@ Take care when reviewing this document, as it's contents are highly volatile and
 
 [[TOC]]
 
-## Orbat Overview
+## ORBAT Overview
 
 ![](/orbat-comms.png)
 
