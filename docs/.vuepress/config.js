@@ -118,7 +118,7 @@ module.exports = {
         buttonText: "Refresh?",
       },
     },
-    repo: "https://gitlab.com/unnamed.group/uagpmc/handbook",
+    repo: "https://github.com/uagpmc/handbook",
     repoLabel: "Contribute!",
     docsDir: "docs",
     editLinks: true,
@@ -160,7 +160,7 @@ function getSidebar(directory, title, order) {
     _fileScan = [...new Set(_fileScan)];
   }
 
-  let _children = _fileScan.map(function(_x) {
+  let _children = _fileScan.map(function (_x) {
     let returned = directory + "/" + _x.replace(".md", "");
 
     if (returned.includes("README")) {
