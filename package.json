@@ -1,15 +1,7 @@
 {
-  "name": "handbook",
-  "version": "1.0.0",
-  "description": "A handy tome for the scholarly contractor",
-  "main": "index.js",
-  "author": "Cody",
-  "license": "MIT",
-  "private": false,
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs",
-    "postinstall": "patch-package"
+    "build": "vuepress build docs"
   },
   "dependencies": {
     "@vuepress/plugin-back-to-top": "^1.0.0-rc.1",
@@ -18,9 +10,5 @@
     "js-cookie": "^2.2.1",
     "markdown-it-task-lists": "^2.1.1",
     "vuepress": "^1.2.0"
-  },
-  "devDependencies": {
-    "patch-package": "^5.1.1",
-    "postinstall-postinstall": "^1.0.0"
   }
 }
