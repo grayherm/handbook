@@ -8,4 +8,4 @@ You're currently in Chapter 0 of the handbook, our "Fundamentals" chapter, which
 
 > **NOTE:** _More complex roles, such as leaders, pilots, or artillerymen may be requested to read through further chapters._
 
-Now, let's get you started on finishing this chapter! Just navigate to the next chapter by using the link on the very bottom-right of the page.
+Now, let's get you started on finishing this chapter! Navigate to the bottom-right of the page and click the link to go to the next chapter.
