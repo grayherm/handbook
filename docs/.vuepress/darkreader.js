@@ -19,6 +19,8 @@ module.exports = () => {
              toggler.classList.add("repo-link");
              toggler.href = "javascript:null";
 
+             if (typeof Cookies.get("darkModeToggle") === "undefined") Cookies.set("darkModeToggle", "1", { expires: 30 });
+
              if (Cookies.get("darkModeToggle") === "1") {
                  DarkReader.enable(darkModeOptions);
                  toggler.innerHTML = "Light Mode";
