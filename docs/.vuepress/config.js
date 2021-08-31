@@ -117,7 +117,7 @@ module.exports = {
         buttonText: "Refresh?",
       },
     },
-    repo: "https://gitlab.com/zeue-oss/unnamed.group/www/tree/master/vuepress",
+    repo: "https://gitlab.com/unnamed.group/uagpmc/handbook",
     repoLabel: "Contribute!",
     docsDir: "docs",
     editLinks: true,
