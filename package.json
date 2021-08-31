@@ -1,22 +1,14 @@
 {
-  "name": "handbook",
-  "version": "1.0.0",
-  "description": "A handy tome for the scholarly contractor",
-  "main": "index.js",
-  "author": "Cody and Collin",
-  "license": "MIT",
-  "private": false,
   "scripts": {
-    "start": "vuepress dev docs",
-    "build": "vuepress build docs",
-    "postinstall": "patch-package"
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
   },
   "dependencies": {
-    "http-server": "^0.11.1"
-  },
-  "devDependencies": {
-    "patch-package": "^5.1.1",
-    "postinstall-postinstall": "^1.0.0",
-    "vuepress": "^1.0.0-alpha.24"
+    "@vuepress/plugin-back-to-top": "^1.0.0-rc.1",
+    "@vuepress/plugin-nprogress": "^1.0.0-rc.1",
+    "darkreader": "^4.7.15",
+    "js-cookie": "^2.2.1",
+    "markdown-it-task-lists": "^2.1.1",
+    "vuepress": "^1.2.0"
   }
 }
