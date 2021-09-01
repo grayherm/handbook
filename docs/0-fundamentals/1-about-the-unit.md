@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Unnamed Arma Group is a military simulation group that doesn't engage in the drama-inducing and power-tripping bullshit that plagues every other group. We do not conform to any one doctrine, or try to play arm-chair veterans, we are simply just a bunch of friends who love playing Arma!
+Unnamed Arma Group is a military simulation group that doesn't engage in the drama-inducing and power-tripping bullshit that plagues every other group. We do not conform to any one doctrine or try to play arm-chair veterans. We are simply just a bunch of friends who love playing Arma!
 
 ### Core Values
 
